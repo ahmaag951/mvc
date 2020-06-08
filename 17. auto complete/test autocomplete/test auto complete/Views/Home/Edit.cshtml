@@ -1,0 +1,66 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Edit</title>
+        @*@Scripts.Render("~/bundles/jquery")*@
+    <script src="~/Scripts/jquery-1.7.1.js"></script>
+    <link href="~/Content/themes/base/jquery-ui.css" rel="stylesheet" />
+    @*<link href="~/Content/themes/base/jquery.ui.all.css" rel="stylesheet" />*@
+    <script src="~/Scripts/jquery-ui-1.8.20.js"></script>
+    
+</head>
+<body>
+    <div>aaaaaaaaaaaaaaaaaaaaaaaaaa
+        <input id="input" type="text" placeholder="click here" />
+    </div>
+
+
+    @*<script>
+        $("#input").autocomplete({
+            minLength: 1,
+            source: "@Url.Action("AutoComplete", "Home")",
+
+            focus: function (event, ui) {
+                console.log('focus')
+                $(this).val(ui.item.label);
+                return false;
+            },
+            select: function (event, ui) {
+                //tempName = ui.item.label;
+                //tempKey = ui.item.value;
+                //   paramterId.val(ui.item.value);
+                $("#input").attr("data-id", ui.item.value)
+                DisplayUser(ui.item.value, 2)
+
+                return false;
+            }
+        });
+    </script>*@
+    <script>
+        $('input').autocomplete({
+            minLength: 1,
+            source: "@Url.Action("AutoComplete", "Home")",
+
+            focus: function (event, ui) {
+                $(this).val(ui.item.label);
+                return false;
+            },
+
+            select: function (event, ui) {
+                $('input').attr("data-id", ui.item.value)
+                DisplayUser(ui.item.value, 2)
+                return false;
+            }
+
+
+        });
+
+    </script>
+</body>
+</html>

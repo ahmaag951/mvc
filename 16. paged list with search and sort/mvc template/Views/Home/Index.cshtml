@@ -1,0 +1,56 @@
+﻿
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>View1</title>
+    <script src="~/scripts/jquery-3.2.0.min.js"></script>
+    <!-- Please not that this css file was automatically installed with the paged list and was puted in the content folder -->
+    <link href="~/Content/PagedList.css" rel="stylesheet" />
+    <script>
+        $(document).ready(function () {
+            $('#search').on('keyup', function () {
+                var term = $(this).val();
+                search(term);
+            });
+
+            $(document).on('click', 'th', function () {
+                var index = $(this).index();
+
+                var term = $('#search').val();
+                search(term, index);
+
+            });
+
+        });
+
+        function search(term, sortByColumnIndex) {
+            
+            $.ajax({
+                type: 'GET',
+                url: '@Url.Action("LoadList")',
+                datatype: 'html',
+                cache: false,
+                data: { term: term, sortByColumnIndex: sortByColumnIndex },
+                success: function (data) {
+                    $("#index").html(data);
+                }
+
+            });
+        }
+    </script>
+</head>
+<body>
+    <p>
+
+        @Html.ActionLink("Create New", "Create")
+
+    </p>
+    <input id="search" placeholder="search in employee name" />
+    <div id="index">
+        @Html.Action("LoadList")
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        @* This opens form tag *@
+        @{ Html.BeginForm("PostAction", "Home"); }
+
+        <input type="submit" value="Go" />
+        
+        @* This closes the form tag *@
+
+        @{ Html.EndForm(); }
+        
+        @* When you use @using(Html.BeginForm) 
+            you don't have to close the form
+            because microsoft implements the IDisposal
+            and they call the Html.EndForm() in the dispose method.
+         *@
+    </div>
+</body>
+</html>

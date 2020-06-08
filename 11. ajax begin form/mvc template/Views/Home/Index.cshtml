@@ -1,0 +1,56 @@
+﻿@model DataAccess.Employee
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index2</title>
+</head>
+<body>
+    <script src="~/scripts/jquery-3.2.0.min.js"></script>
+    @*<script src="~/Scripts/jquery.validate.min.js"></script>
+        <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>*@
+
+    @* --------------Please Please Please note that---------------------------
+        --------you have to add unobtrusive-ajax from nuget--------
+        ------and add unobtrusive script-------*@
+    <script src="~/scripts/jquery.unobtrusive-ajax.js"></script>
+
+    @using (Ajax.BeginForm("Edit", new AjaxOptions
+    {
+        InsertionMode = InsertionMode.Replace,
+        UpdateTargetId = "targetDiv",
+        LoadingElementId = "loader"
+    }))
+    {
+        @Html.AntiForgeryToken()
+        @Html.ValidationSummary(true)
+
+        <fieldset>
+            <legend>Employee</legend>
+
+            @Html.HiddenFor(model => model.id)
+
+            <div class="editor-label">
+                @Html.LabelFor(model => model.name)
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.name)
+                @Html.ValidationMessageFor(model => model.name)
+            </div>
+            <p>
+                <input type="submit" value="Save" />
+            </p>
+        </fieldset>
+    }
+
+    <div id="loader" class=" aletr" style="display:none">
+        Loading...<img src="~/Images/ajax-loader.gif" />
+    </div>
+
+    <div id="targetDiv">
+        not loaded yet
+    </div>
+</body>
+</html>

@@ -1,0 +1,60 @@
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\15. paged list\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\15. paged list\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\15. paged list\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\15. paged list\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\15. paged list\BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\15. paged list\BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\15. paged list\BusinessLogic\bin\Debug\PagedList.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\15. paged list\BusinessLogic\bin\Debug\PagedList.Mvc.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\15. paged list\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\15. paged list\BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\15. paged list\BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\15. paged list\BusinessLogic\bin\Debug\PagedList.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\15. paged list\BusinessLogic\bin\Debug\PagedList.Mvc.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\15. paged list\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\15. paged list\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\15. paged list\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\30. paged list with search and sort\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\30. paged list with search and sort\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\30. paged list with search and sort\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\30. paged list with search and sort\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\30. paged list with search and sort\BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\30. paged list with search and sort\BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\30. paged list with search and sort\BusinessLogic\bin\Debug\PagedList.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\30. paged list with search and sort\BusinessLogic\bin\Debug\PagedList.Mvc.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\30. paged list with search and sort\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\30. paged list with search and sort\BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\30. paged list with search and sort\BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\30. paged list with search and sort\BusinessLogic\bin\Debug\PagedList.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\30. paged list with search and sort\BusinessLogic\bin\Debug\PagedList.Mvc.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\30. paged list with search and sort\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\30. paged list with search and sort\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\30. paged list with search and sort\BusinessLogic\obj\Debug\BusinessLogic.pdb
+E:\CS\0. Samples\Projects\SAMPLES\MVC\30. paged list with search and sort\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+E:\CS\0. Samples\Projects\SAMPLES\MVC\30. paged list with search and sort\BusinessLogic\bin\Debug\BusinessLogic.dll
+E:\CS\0. Samples\Projects\SAMPLES\MVC\30. paged list with search and sort\BusinessLogic\bin\Debug\BusinessLogic.pdb
+E:\CS\0. Samples\Projects\SAMPLES\MVC\30. paged list with search and sort\BusinessLogic\bin\Debug\DataAccess.dll
+E:\CS\0. Samples\Projects\SAMPLES\MVC\30. paged list with search and sort\BusinessLogic\bin\Debug\EntityFramework.dll
+E:\CS\0. Samples\Projects\SAMPLES\MVC\30. paged list with search and sort\BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+E:\CS\0. Samples\Projects\SAMPLES\MVC\30. paged list with search and sort\BusinessLogic\bin\Debug\PagedList.dll
+E:\CS\0. Samples\Projects\SAMPLES\MVC\30. paged list with search and sort\BusinessLogic\bin\Debug\PagedList.Mvc.dll
+E:\CS\0. Samples\Projects\SAMPLES\MVC\30. paged list with search and sort\BusinessLogic\bin\Debug\DataAccess.pdb
+E:\CS\0. Samples\Projects\SAMPLES\MVC\30. paged list with search and sort\BusinessLogic\bin\Debug\EntityFramework.xml
+E:\CS\0. Samples\Projects\SAMPLES\MVC\30. paged list with search and sort\BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+E:\CS\0. Samples\Projects\SAMPLES\MVC\30. paged list with search and sort\BusinessLogic\bin\Debug\PagedList.xml
+E:\CS\0. Samples\Projects\SAMPLES\MVC\30. paged list with search and sort\BusinessLogic\bin\Debug\PagedList.Mvc.xml
+E:\CS\0. Samples\Projects\SAMPLES\MVC\30. paged list with search and sort\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+E:\CS\0. Samples\Projects\SAMPLES\MVC\30. paged list with search and sort\BusinessLogic\obj\Debug\BusinessLogic.dll
+E:\CS\0. Samples\Projects\SAMPLES\MVC\30. paged list with search and sort\BusinessLogic\obj\Debug\BusinessLogic.pdb

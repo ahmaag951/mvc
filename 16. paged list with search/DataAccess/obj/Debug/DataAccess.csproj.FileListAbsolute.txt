@@ -1,0 +1,38 @@
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\15. paged list\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\15. paged list\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\15. paged list\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\15. paged list\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\15. paged list\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\15. paged list\DataAccess\bin\Debug\PagedList.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\15. paged list\DataAccess\bin\Debug\PagedList.Mvc.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\15. paged list\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\15. paged list\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\15. paged list\DataAccess\bin\Debug\PagedList.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\15. paged list\DataAccess\bin\Debug\PagedList.Mvc.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\15. paged list\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\15. paged list\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\15. paged list\DataAccess\obj\Debug\DataAccess.pdb
+E:\CS\0. Samples\Projects\SAMPLES\MVC\16. paged list with search\DataAccess\bin\Debug\DataAccess.dll.config
+E:\CS\0. Samples\Projects\SAMPLES\MVC\16. paged list with search\DataAccess\bin\Debug\DataAccess.dll
+E:\CS\0. Samples\Projects\SAMPLES\MVC\16. paged list with search\DataAccess\bin\Debug\DataAccess.pdb
+E:\CS\0. Samples\Projects\SAMPLES\MVC\16. paged list with search\DataAccess\bin\Debug\EntityFramework.dll
+E:\CS\0. Samples\Projects\SAMPLES\MVC\16. paged list with search\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+E:\CS\0. Samples\Projects\SAMPLES\MVC\16. paged list with search\DataAccess\bin\Debug\PagedList.dll
+E:\CS\0. Samples\Projects\SAMPLES\MVC\16. paged list with search\DataAccess\bin\Debug\PagedList.Mvc.dll
+E:\CS\0. Samples\Projects\SAMPLES\MVC\16. paged list with search\DataAccess\bin\Debug\EntityFramework.xml
+E:\CS\0. Samples\Projects\SAMPLES\MVC\16. paged list with search\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+E:\CS\0. Samples\Projects\SAMPLES\MVC\16. paged list with search\DataAccess\bin\Debug\PagedList.xml
+E:\CS\0. Samples\Projects\SAMPLES\MVC\16. paged list with search\DataAccess\bin\Debug\PagedList.Mvc.xml
+E:\CS\0. Samples\Projects\SAMPLES\MVC\16. paged list with search\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+E:\CS\0. Samples\Projects\SAMPLES\MVC\16. paged list with search\DataAccess\obj\Debug\DataAccess.dll
+E:\CS\0. Samples\Projects\SAMPLES\MVC\16. paged list with search\DataAccess\obj\Debug\DataAccess.pdb
