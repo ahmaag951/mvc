@@ -1,0 +1,22 @@
+﻿@model check_box_list.Models.HomeModel
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        <form action="/Home/Index" method="POST">
+            @foreach (var item in Model.AvailbleFruits)
+            {
+                <input type="checkbox" name="SelectedFruits" value="@item.Value" /> @item.Text
+                
+                
+            }
+            <input type="submit" value="submit" />
+        </form>
+    </div>
+</body>
+</html>

@@ -1,0 +1,13 @@
+c:\users\ad\documents\visual studio 2013\Projects\cross origin\Client\bin\Client.dll.config
+c:\users\ad\documents\visual studio 2013\Projects\cross origin\Client\bin\Client.dll
+c:\users\ad\documents\visual studio 2013\Projects\cross origin\Client\bin\Client.pdb
+c:\users\ad\documents\visual studio 2013\Projects\cross origin\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+c:\users\ad\documents\visual studio 2013\Projects\cross origin\Client\obj\Debug\Client.dll
+c:\users\ad\documents\visual studio 2013\Projects\cross origin\Client\obj\Debug\Client.pdb
+F:\CS\Samples\Backend\MVC\55.cross origin\Client\bin\Client.dll.config
+F:\CS\Samples\Backend\MVC\55.cross origin\Client\bin\Client.dll
+F:\CS\Samples\Backend\MVC\55.cross origin\Client\bin\Client.pdb
+F:\CS\Samples\Backend\MVC\55.cross origin\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+F:\CS\Samples\Backend\MVC\55.cross origin\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+F:\CS\Samples\Backend\MVC\55.cross origin\Client\obj\Debug\Client.dll
+F:\CS\Samples\Backend\MVC\55.cross origin\Client\obj\Debug\Client.pdb

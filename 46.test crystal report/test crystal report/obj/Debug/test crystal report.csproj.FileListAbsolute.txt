@@ -1,0 +1,40 @@
+c:\users\a.ezzat\source\repos\test crystal report\test crystal report\bin\test crystal report.dll.config
+c:\users\a.ezzat\source\repos\test crystal report\test crystal report\bin\test crystal report.dll
+c:\users\a.ezzat\source\repos\test crystal report\test crystal report\bin\test crystal report.pdb
+c:\users\a.ezzat\source\repos\test crystal report\test crystal report\bin\CrystalDecisions.CrystalReports.Engine.dll
+c:\users\a.ezzat\source\repos\test crystal report\test crystal report\bin\CrystalDecisions.ReportSource.dll
+c:\users\a.ezzat\source\repos\test crystal report\test crystal report\bin\CrystalDecisions.Shared.dll
+c:\users\a.ezzat\source\repos\test crystal report\test crystal report\bin\EntityFramework.dll
+c:\users\a.ezzat\source\repos\test crystal report\test crystal report\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\a.ezzat\source\repos\test crystal report\test crystal report\bin\Microsoft.Web.Infrastructure.dll
+c:\users\a.ezzat\source\repos\test crystal report\test crystal report\bin\System.Web.Helpers.dll
+c:\users\a.ezzat\source\repos\test crystal report\test crystal report\bin\System.Web.Mvc.dll
+c:\users\a.ezzat\source\repos\test crystal report\test crystal report\bin\System.Web.Razor.dll
+c:\users\a.ezzat\source\repos\test crystal report\test crystal report\bin\System.Web.Webpages.Deployment.dll
+c:\users\a.ezzat\source\repos\test crystal report\test crystal report\bin\System.Web.Webpages.dll
+c:\users\a.ezzat\source\repos\test crystal report\test crystal report\bin\System.Web.Webpages.Razor.dll
+c:\users\a.ezzat\source\repos\test crystal report\test crystal report\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+c:\users\a.ezzat\source\repos\test crystal report\test crystal report\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+c:\users\a.ezzat\source\repos\test crystal report\test crystal report\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+c:\users\a.ezzat\source\repos\test crystal report\test crystal report\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+c:\users\a.ezzat\source\repos\test crystal report\test crystal report\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+c:\users\a.ezzat\source\repos\test crystal report\test crystal report\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+c:\users\a.ezzat\source\repos\test crystal report\test crystal report\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+c:\users\a.ezzat\source\repos\test crystal report\test crystal report\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+c:\users\a.ezzat\source\repos\test crystal report\test crystal report\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+c:\users\a.ezzat\source\repos\test crystal report\test crystal report\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+c:\users\a.ezzat\source\repos\test crystal report\test crystal report\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+c:\users\a.ezzat\source\repos\test crystal report\test crystal report\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+c:\users\a.ezzat\source\repos\test crystal report\test crystal report\bin\stdole.dll
+c:\users\a.ezzat\source\repos\test crystal report\test crystal report\bin\EntityFramework.xml
+c:\users\a.ezzat\source\repos\test crystal report\test crystal report\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\a.ezzat\source\repos\test crystal report\test crystal report\bin\System.Web.Razor.xml
+c:\users\a.ezzat\source\repos\test crystal report\test crystal report\bin\System.Web.Webpages.xml
+c:\users\a.ezzat\source\repos\test crystal report\test crystal report\bin\System.Web.Webpages.Deployment.xml
+c:\users\a.ezzat\source\repos\test crystal report\test crystal report\bin\System.Web.Webpages.Razor.xml
+c:\users\a.ezzat\source\repos\test crystal report\test crystal report\bin\System.Web.Helpers.xml
+c:\users\a.ezzat\source\repos\test crystal report\test crystal report\bin\System.Web.Mvc.xml
+c:\users\a.ezzat\source\repos\test crystal report\test crystal report\obj\Debug\test crystal report.csprojResolveAssemblyReference.cache
+c:\users\a.ezzat\source\repos\test crystal report\test crystal report\obj\Debug\test crystal report.csproj.CoreCompileInputs.cache
+c:\users\a.ezzat\source\repos\test crystal report\test crystal report\obj\Debug\test crystal report.dll
+c:\users\a.ezzat\source\repos\test crystal report\test crystal report\obj\Debug\test crystal report.pdb

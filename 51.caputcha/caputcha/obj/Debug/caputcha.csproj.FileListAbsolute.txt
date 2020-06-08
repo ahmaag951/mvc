@@ -1,0 +1,102 @@
+c:\users\user1\documents\visual studio 2017\Projects\caputcha\caputcha\bin\roslyn\csc.exe
+c:\users\user1\documents\visual studio 2017\Projects\caputcha\caputcha\bin\roslyn\csc.exe.config
+c:\users\user1\documents\visual studio 2017\Projects\caputcha\caputcha\bin\roslyn\csc.rsp
+c:\users\user1\documents\visual studio 2017\Projects\caputcha\caputcha\bin\roslyn\csi.exe
+c:\users\user1\documents\visual studio 2017\Projects\caputcha\caputcha\bin\roslyn\csi.rsp
+c:\users\user1\documents\visual studio 2017\Projects\caputcha\caputcha\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\user1\documents\visual studio 2017\Projects\caputcha\caputcha\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\user1\documents\visual studio 2017\Projects\caputcha\caputcha\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\user1\documents\visual studio 2017\Projects\caputcha\caputcha\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\user1\documents\visual studio 2017\Projects\caputcha\caputcha\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\user1\documents\visual studio 2017\Projects\caputcha\caputcha\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\user1\documents\visual studio 2017\Projects\caputcha\caputcha\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\user1\documents\visual studio 2017\Projects\caputcha\caputcha\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\user1\documents\visual studio 2017\Projects\caputcha\caputcha\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\user1\documents\visual studio 2017\Projects\caputcha\caputcha\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\user1\documents\visual studio 2017\Projects\caputcha\caputcha\bin\roslyn\System.AppContext.dll
+c:\users\user1\documents\visual studio 2017\Projects\caputcha\caputcha\bin\roslyn\System.Collections.Immutable.dll
+c:\users\user1\documents\visual studio 2017\Projects\caputcha\caputcha\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\user1\documents\visual studio 2017\Projects\caputcha\caputcha\bin\roslyn\System.IO.FileSystem.dll
+c:\users\user1\documents\visual studio 2017\Projects\caputcha\caputcha\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\user1\documents\visual studio 2017\Projects\caputcha\caputcha\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\user1\documents\visual studio 2017\Projects\caputcha\caputcha\bin\roslyn\vbc.exe
+c:\users\user1\documents\visual studio 2017\Projects\caputcha\caputcha\bin\roslyn\vbc.exe.config
+c:\users\user1\documents\visual studio 2017\Projects\caputcha\caputcha\bin\roslyn\vbc.rsp
+c:\users\user1\documents\visual studio 2017\Projects\caputcha\caputcha\bin\roslyn\VBCSCompiler.exe
+c:\users\user1\documents\visual studio 2017\Projects\caputcha\caputcha\bin\roslyn\VBCSCompiler.exe.config
+c:\users\user1\documents\visual studio 2017\Projects\caputcha\caputcha\bin\caputcha.dll.config
+c:\users\user1\documents\visual studio 2017\Projects\caputcha\caputcha\bin\caputcha.dll
+c:\users\user1\documents\visual studio 2017\Projects\caputcha\caputcha\bin\caputcha.pdb
+c:\users\user1\documents\visual studio 2017\Projects\caputcha\caputcha\bin\CaptchaMvc.dll
+c:\users\user1\documents\visual studio 2017\Projects\caputcha\caputcha\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\user1\documents\visual studio 2017\Projects\caputcha\caputcha\bin\Microsoft.Web.Infrastructure.dll
+c:\users\user1\documents\visual studio 2017\Projects\caputcha\caputcha\bin\System.Web.Helpers.dll
+c:\users\user1\documents\visual studio 2017\Projects\caputcha\caputcha\bin\System.Web.Mvc.dll
+c:\users\user1\documents\visual studio 2017\Projects\caputcha\caputcha\bin\System.Web.Razor.dll
+c:\users\user1\documents\visual studio 2017\Projects\caputcha\caputcha\bin\System.Web.Webpages.Deployment.dll
+c:\users\user1\documents\visual studio 2017\Projects\caputcha\caputcha\bin\System.Web.Webpages.dll
+c:\users\user1\documents\visual studio 2017\Projects\caputcha\caputcha\bin\System.Web.Webpages.Razor.dll
+c:\users\user1\documents\visual studio 2017\Projects\caputcha\caputcha\bin\CaptchaMvc.pdb
+c:\users\user1\documents\visual studio 2017\Projects\caputcha\caputcha\bin\CaptchaMvc.xml
+c:\users\user1\documents\visual studio 2017\Projects\caputcha\caputcha\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\user1\documents\visual studio 2017\Projects\caputcha\caputcha\bin\System.Web.Razor.xml
+c:\users\user1\documents\visual studio 2017\Projects\caputcha\caputcha\bin\System.Web.Webpages.xml
+c:\users\user1\documents\visual studio 2017\Projects\caputcha\caputcha\bin\System.Web.Webpages.Deployment.xml
+c:\users\user1\documents\visual studio 2017\Projects\caputcha\caputcha\bin\System.Web.Webpages.Razor.xml
+c:\users\user1\documents\visual studio 2017\Projects\caputcha\caputcha\bin\System.Web.Helpers.xml
+c:\users\user1\documents\visual studio 2017\Projects\caputcha\caputcha\bin\System.Web.Mvc.xml
+c:\users\user1\documents\visual studio 2017\Projects\caputcha\caputcha\obj\Debug\caputcha.csprojResolveAssemblyReference.cache
+c:\users\user1\documents\visual studio 2017\Projects\caputcha\caputcha\obj\Debug\caputcha.dll
+c:\users\user1\documents\visual studio 2017\Projects\caputcha\caputcha\obj\Debug\caputcha.pdb
+F:\CS\Samples\Backend\MVC\51.caputcha\caputcha\bin\roslyn\csc.exe
+F:\CS\Samples\Backend\MVC\51.caputcha\caputcha\bin\roslyn\csc.exe.config
+F:\CS\Samples\Backend\MVC\51.caputcha\caputcha\bin\roslyn\csc.rsp
+F:\CS\Samples\Backend\MVC\51.caputcha\caputcha\bin\roslyn\csi.exe
+F:\CS\Samples\Backend\MVC\51.caputcha\caputcha\bin\roslyn\csi.rsp
+F:\CS\Samples\Backend\MVC\51.caputcha\caputcha\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\CS\Samples\Backend\MVC\51.caputcha\caputcha\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\CS\Samples\Backend\MVC\51.caputcha\caputcha\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\CS\Samples\Backend\MVC\51.caputcha\caputcha\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\CS\Samples\Backend\MVC\51.caputcha\caputcha\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\CS\Samples\Backend\MVC\51.caputcha\caputcha\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\CS\Samples\Backend\MVC\51.caputcha\caputcha\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\CS\Samples\Backend\MVC\51.caputcha\caputcha\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\CS\Samples\Backend\MVC\51.caputcha\caputcha\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\CS\Samples\Backend\MVC\51.caputcha\caputcha\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\CS\Samples\Backend\MVC\51.caputcha\caputcha\bin\roslyn\System.AppContext.dll
+F:\CS\Samples\Backend\MVC\51.caputcha\caputcha\bin\roslyn\System.Collections.Immutable.dll
+F:\CS\Samples\Backend\MVC\51.caputcha\caputcha\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\CS\Samples\Backend\MVC\51.caputcha\caputcha\bin\roslyn\System.IO.FileSystem.dll
+F:\CS\Samples\Backend\MVC\51.caputcha\caputcha\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\CS\Samples\Backend\MVC\51.caputcha\caputcha\bin\roslyn\System.Reflection.Metadata.dll
+F:\CS\Samples\Backend\MVC\51.caputcha\caputcha\bin\roslyn\vbc.exe
+F:\CS\Samples\Backend\MVC\51.caputcha\caputcha\bin\roslyn\vbc.exe.config
+F:\CS\Samples\Backend\MVC\51.caputcha\caputcha\bin\roslyn\vbc.rsp
+F:\CS\Samples\Backend\MVC\51.caputcha\caputcha\bin\roslyn\VBCSCompiler.exe
+F:\CS\Samples\Backend\MVC\51.caputcha\caputcha\bin\roslyn\VBCSCompiler.exe.config
+F:\CS\Samples\Backend\MVC\51.caputcha\caputcha\bin\caputcha.dll.config
+F:\CS\Samples\Backend\MVC\51.caputcha\caputcha\bin\caputcha.dll
+F:\CS\Samples\Backend\MVC\51.caputcha\caputcha\bin\caputcha.pdb
+F:\CS\Samples\Backend\MVC\51.caputcha\caputcha\bin\CaptchaMvc.dll
+F:\CS\Samples\Backend\MVC\51.caputcha\caputcha\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\CS\Samples\Backend\MVC\51.caputcha\caputcha\bin\Microsoft.Web.Infrastructure.dll
+F:\CS\Samples\Backend\MVC\51.caputcha\caputcha\bin\System.Web.Helpers.dll
+F:\CS\Samples\Backend\MVC\51.caputcha\caputcha\bin\System.Web.Mvc.dll
+F:\CS\Samples\Backend\MVC\51.caputcha\caputcha\bin\System.Web.Razor.dll
+F:\CS\Samples\Backend\MVC\51.caputcha\caputcha\bin\System.Web.Webpages.Deployment.dll
+F:\CS\Samples\Backend\MVC\51.caputcha\caputcha\bin\System.Web.Webpages.dll
+F:\CS\Samples\Backend\MVC\51.caputcha\caputcha\bin\System.Web.Webpages.Razor.dll
+F:\CS\Samples\Backend\MVC\51.caputcha\caputcha\bin\CaptchaMvc.pdb
+F:\CS\Samples\Backend\MVC\51.caputcha\caputcha\bin\CaptchaMvc.xml
+F:\CS\Samples\Backend\MVC\51.caputcha\caputcha\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\CS\Samples\Backend\MVC\51.caputcha\caputcha\bin\System.Web.Razor.xml
+F:\CS\Samples\Backend\MVC\51.caputcha\caputcha\bin\System.Web.Webpages.xml
+F:\CS\Samples\Backend\MVC\51.caputcha\caputcha\bin\System.Web.Webpages.Deployment.xml
+F:\CS\Samples\Backend\MVC\51.caputcha\caputcha\bin\System.Web.Webpages.Razor.xml
+F:\CS\Samples\Backend\MVC\51.caputcha\caputcha\bin\System.Web.Helpers.xml
+F:\CS\Samples\Backend\MVC\51.caputcha\caputcha\bin\System.Web.Mvc.xml
+F:\CS\Samples\Backend\MVC\51.caputcha\caputcha\obj\Debug\caputcha.csprojResolveAssemblyReference.cache
+F:\CS\Samples\Backend\MVC\51.caputcha\caputcha\obj\Debug\caputcha.csproj.CoreCompileInputs.cache
+F:\CS\Samples\Backend\MVC\51.caputcha\caputcha\obj\Debug\caputcha.csproj.CopyComplete
+F:\CS\Samples\Backend\MVC\51.caputcha\caputcha\obj\Debug\caputcha.dll
+F:\CS\Samples\Backend\MVC\51.caputcha\caputcha\obj\Debug\caputcha.pdb

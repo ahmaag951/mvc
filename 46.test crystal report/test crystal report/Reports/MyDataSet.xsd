@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="MyDataSet" targetNamespace="http://tempuri.org/MyDataSet.xsd" xmlns:mstns="http://tempuri.org/MyDataSet.xsd" xmlns="http://tempuri.org/MyDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="MyDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="MyDataSet" msprop:Generator_UserDSName="MyDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="City" msprop:Generator_TableClassName="CityDataTable" msprop:Generator_TableVarName="tableCity" msprop:Generator_TablePropName="City" msprop:Generator_RowDeletingName="CityRowDeleting" msprop:Generator_RowChangingName="CityRowChanging" msprop:Generator_RowEvHandlerName="CityRowChangeEventHandler" msprop:Generator_RowDeletedName="CityRowDeleted" msprop:Generator_UserTableName="City" msprop:Generator_RowChangedName="CityRowChanged" msprop:Generator_RowEvArgName="CityRowChangeEvent" msprop:Generator_RowClassName="CityRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CityId" msprop:Generator_ColumnVarNameInTable="columnCityId" msprop:Generator_ColumnPropNameInRow="CityId" msprop:Generator_ColumnPropNameInTable="CityIdColumn" msprop:Generator_UserColumnName="CityId" type="xs:short" />
+              <xs:element name="CityName" msprop:Generator_ColumnVarNameInTable="columnCityName" msprop:Generator_ColumnPropNameInRow="CityName" msprop:Generator_ColumnPropNameInTable="CityNameColumn" msprop:Generator_UserColumnName="CityName" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="CityKey1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:City" />
+      <xs:field xpath="mstns:CityId" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

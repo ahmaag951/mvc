@@ -1,0 +1,24 @@
+﻿
+<!-- 1.Using  -->
+@using CaptchaMvc.HtmlHelpers;
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.js"></script>
+</head>
+<body>
+    <div> 
+        @using (Html.BeginForm("SubmitAction", "Home"))
+        {
+        @* There are two types of captcha math captcha (will give you math operation and wait for the result) and captcha *@
+        @* the last boolean is for addValidationSpan, and the 8 is for the length *@
+        @Html.Captcha("Refresh", "Please enter the verification text", 4, "This is required", true)
+            <input type="submit" value="click here" />
+        }
+    </div>
+</body>
+</html>

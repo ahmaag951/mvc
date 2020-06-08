@@ -1,0 +1,20 @@
+c:\users\admin\documents\visual studio 2012\Projects\calling web api from client\calling web api from client\bin\Debug\calling web api from client.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\calling web api from client\calling web api from client\bin\Debug\calling web api from client.exe
+c:\users\admin\documents\visual studio 2012\Projects\calling web api from client\calling web api from client\bin\Debug\calling web api from client.pdb
+c:\users\admin\documents\visual studio 2012\Projects\calling web api from client\calling web api from client\bin\Debug\Newtonsoft.Json.dll
+c:\users\admin\documents\visual studio 2012\Projects\calling web api from client\calling web api from client\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\admin\documents\visual studio 2012\Projects\calling web api from client\calling web api from client\bin\Debug\Newtonsoft.Json.xml
+c:\users\admin\documents\visual studio 2012\Projects\calling web api from client\calling web api from client\bin\Debug\System.Net.Http.Formatting.xml
+c:\users\admin\documents\visual studio 2012\Projects\calling web api from client\calling web api from client\obj\Debug\calling web api from client.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\calling web api from client\calling web api from client\obj\Debug\calling web api from client.exe
+c:\users\admin\documents\visual studio 2012\Projects\calling web api from client\calling web api from client\obj\Debug\calling web api from client.pdb
+E:\CS\0. Samples\Projects\SAMPLES\calling web api from client\calling web api from client\bin\Debug\calling web api from client.exe.config
+E:\CS\0. Samples\Projects\SAMPLES\calling web api from client\calling web api from client\bin\Debug\calling web api from client.exe
+E:\CS\0. Samples\Projects\SAMPLES\calling web api from client\calling web api from client\bin\Debug\calling web api from client.pdb
+E:\CS\0. Samples\Projects\SAMPLES\calling web api from client\calling web api from client\bin\Debug\Newtonsoft.Json.dll
+E:\CS\0. Samples\Projects\SAMPLES\calling web api from client\calling web api from client\bin\Debug\System.Net.Http.Formatting.dll
+E:\CS\0. Samples\Projects\SAMPLES\calling web api from client\calling web api from client\bin\Debug\Newtonsoft.Json.xml
+E:\CS\0. Samples\Projects\SAMPLES\calling web api from client\calling web api from client\bin\Debug\System.Net.Http.Formatting.xml
+E:\CS\0. Samples\Projects\SAMPLES\calling web api from client\calling web api from client\obj\Debug\calling web api from client.csprojResolveAssemblyReference.cache
+E:\CS\0. Samples\Projects\SAMPLES\calling web api from client\calling web api from client\obj\Debug\calling web api from client.exe
+E:\CS\0. Samples\Projects\SAMPLES\calling web api from client\calling web api from client\obj\Debug\calling web api from client.pdb

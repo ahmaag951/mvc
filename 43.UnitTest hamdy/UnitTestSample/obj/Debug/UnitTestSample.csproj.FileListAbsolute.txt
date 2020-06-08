@@ -1,0 +1,14 @@
+c:\users\a.ezzat\source\repos\UnitTestSample\UnitTestSample\bin\Debug\UnitTestSample.exe.config
+c:\users\a.ezzat\source\repos\UnitTestSample\UnitTestSample\bin\Debug\UnitTestSample.exe
+c:\users\a.ezzat\source\repos\UnitTestSample\UnitTestSample\bin\Debug\UnitTestSample.pdb
+c:\users\a.ezzat\source\repos\UnitTestSample\UnitTestSample\obj\Debug\UnitTestSample.csprojResolveAssemblyReference.cache
+c:\users\a.ezzat\source\repos\UnitTestSample\UnitTestSample\obj\Debug\UnitTestSample.csproj.CoreCompileInputs.cache
+c:\users\a.ezzat\source\repos\UnitTestSample\UnitTestSample\obj\Debug\UnitTestSample.exe
+c:\users\a.ezzat\source\repos\UnitTestSample\UnitTestSample\obj\Debug\UnitTestSample.pdb
+C:\Users\a.ezzat.APEXUNITED\Desktop\UnitTestSample\UnitTestSample\bin\Debug\UnitTestSample.exe.config
+C:\Users\a.ezzat.APEXUNITED\Desktop\UnitTestSample\UnitTestSample\bin\Debug\UnitTestSample.exe
+C:\Users\a.ezzat.APEXUNITED\Desktop\UnitTestSample\UnitTestSample\bin\Debug\UnitTestSample.pdb
+C:\Users\a.ezzat.APEXUNITED\Desktop\UnitTestSample\UnitTestSample\obj\Debug\UnitTestSample.csprojAssemblyReference.cache
+C:\Users\a.ezzat.APEXUNITED\Desktop\UnitTestSample\UnitTestSample\obj\Debug\UnitTestSample.csproj.CoreCompileInputs.cache
+C:\Users\a.ezzat.APEXUNITED\Desktop\UnitTestSample\UnitTestSample\obj\Debug\UnitTestSample.exe
+C:\Users\a.ezzat.APEXUNITED\Desktop\UnitTestSample\UnitTestSample\obj\Debug\UnitTestSample.pdb

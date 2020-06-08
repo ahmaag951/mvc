@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="jquery-1.8.3.js"></script>
+
+</head>
+<body>
+    <a href="http://localhost:50596/api/values/">click here to call api</a> <br />
+    if it's a different port, that means for the browser it's a different oringin <br />
+
+    <button onclick="GetData()">Get Data By Jquery</button>
+
+    <pre id="output">
+    </pre>
+
+    <script>
+        function GetData() {
+            $.get("http://localhost:50596/api/values/").always(showResponse);
+            return false;
+        };
+
+        var showResponse = function(object) {
+            $("#output").text(JSON.stringify(object, null, 4));
+        };
+    </script>
+</body>
+</html>

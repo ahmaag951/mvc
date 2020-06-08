@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TestModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="TestModelStoreContainer">
+    <EntitySet Name="City" EntityType="TestModel.Store.City" store:Type="Tables" store:Schema="dbo" store:Name="City">
+      <DefiningQuery>SELECT 
+      [City].[Id] AS [Id], 
+      [City].[Name] AS [Name], 
+      [City].[CountryIdFk] AS [CountryIdFk]
+      FROM [dbo].[City] AS [City]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="Country" EntityType="TestModel.Store.Country" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK_City_Country" Association="TestModel.Store.FK_City_Country">
+      <End Role="Country" EntitySet="Country" />
+      <End Role="City" EntitySet="City" />
+    </AssociationSet>
+  </EntityContainer>
+  <!--Errors Found During Generation:
+      warning 6002: The table/view 'Test.dbo.City' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+  <EntityType Name="City">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="nvarchar" MaxLength="50" />
+    <Property Name="CountryIdFk" Type="int" />
+  </EntityType>
+  <EntityType Name="Country">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <Association Name="FK_City_Country">
+    <End Role="Country" Type="TestModel.Store.Country" Multiplicity="0..1" />
+    <End Role="City" Type="TestModel.Store.City" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Country">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="City">
+        <PropertyRef Name="CountryIdFk" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

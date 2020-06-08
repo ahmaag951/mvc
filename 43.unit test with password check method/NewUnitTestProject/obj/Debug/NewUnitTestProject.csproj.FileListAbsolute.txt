@@ -1,0 +1,32 @@
+c:\users\user1\documents\visual studio 2017\Projects\unit test with password check method\NewUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\user1\documents\visual studio 2017\Projects\unit test with password check method\NewUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\user1\documents\visual studio 2017\Projects\unit test with password check method\NewUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\user1\documents\visual studio 2017\Projects\unit test with password check method\NewUnitTestProject\bin\Debug\NewUnitTestProject.dll
+c:\users\user1\documents\visual studio 2017\Projects\unit test with password check method\NewUnitTestProject\bin\Debug\NewUnitTestProject.pdb
+c:\users\user1\documents\visual studio 2017\Projects\unit test with password check method\NewUnitTestProject\bin\Debug\ConsoleApp1.exe
+c:\users\user1\documents\visual studio 2017\Projects\unit test with password check method\NewUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\user1\documents\visual studio 2017\Projects\unit test with password check method\NewUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\user1\documents\visual studio 2017\Projects\unit test with password check method\NewUnitTestProject\bin\Debug\ConsoleApp1.pdb
+c:\users\user1\documents\visual studio 2017\Projects\unit test with password check method\NewUnitTestProject\bin\Debug\ConsoleApp1.exe.config
+c:\users\user1\documents\visual studio 2017\Projects\unit test with password check method\NewUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\user1\documents\visual studio 2017\Projects\unit test with password check method\NewUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\user1\documents\visual studio 2017\Projects\unit test with password check method\NewUnitTestProject\obj\Debug\NewUnitTestProject.csprojResolveAssemblyReference.cache
+c:\users\user1\documents\visual studio 2017\Projects\unit test with password check method\NewUnitTestProject\obj\Debug\NewUnitTestProject.dll
+c:\users\user1\documents\visual studio 2017\Projects\unit test with password check method\NewUnitTestProject\obj\Debug\NewUnitTestProject.pdb
+F:\CS\Samples\Backend\MVC\unit test with password check method\NewUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\CS\Samples\Backend\MVC\unit test with password check method\NewUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\CS\Samples\Backend\MVC\unit test with password check method\NewUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\CS\Samples\Backend\MVC\unit test with password check method\NewUnitTestProject\bin\Debug\NewUnitTestProject.dll
+F:\CS\Samples\Backend\MVC\unit test with password check method\NewUnitTestProject\bin\Debug\NewUnitTestProject.pdb
+F:\CS\Samples\Backend\MVC\unit test with password check method\NewUnitTestProject\bin\Debug\ConsoleApp1.exe
+F:\CS\Samples\Backend\MVC\unit test with password check method\NewUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\CS\Samples\Backend\MVC\unit test with password check method\NewUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\CS\Samples\Backend\MVC\unit test with password check method\NewUnitTestProject\bin\Debug\ConsoleApp1.pdb
+F:\CS\Samples\Backend\MVC\unit test with password check method\NewUnitTestProject\bin\Debug\ConsoleApp1.exe.config
+F:\CS\Samples\Backend\MVC\unit test with password check method\NewUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\CS\Samples\Backend\MVC\unit test with password check method\NewUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\CS\Samples\Backend\MVC\unit test with password check method\NewUnitTestProject\obj\Debug\NewUnitTestProject.csprojResolveAssemblyReference.cache
+F:\CS\Samples\Backend\MVC\unit test with password check method\NewUnitTestProject\obj\Debug\NewUnitTestProject.csproj.CoreCompileInputs.cache
+F:\CS\Samples\Backend\MVC\unit test with password check method\NewUnitTestProject\obj\Debug\NewUnitTestProject.csproj.CopyComplete
+F:\CS\Samples\Backend\MVC\unit test with password check method\NewUnitTestProject\obj\Debug\NewUnitTestProject.dll
+F:\CS\Samples\Backend\MVC\unit test with password check method\NewUnitTestProject\obj\Debug\NewUnitTestProject.pdb

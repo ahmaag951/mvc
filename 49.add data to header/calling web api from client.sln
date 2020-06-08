@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calling web api from client", "calling web api from client\calling web api from client.csproj", "{2B923B1C-1CF1-48F0-A360-EA47E64CAD95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "the web api", "the web api\the web api.csproj", "{5ED4B926-0610-4088-8E66-FE9F066AE607}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B923B1C-1CF1-48F0-A360-EA47E64CAD95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B923B1C-1CF1-48F0-A360-EA47E64CAD95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B923B1C-1CF1-48F0-A360-EA47E64CAD95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B923B1C-1CF1-48F0-A360-EA47E64CAD95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ED4B926-0610-4088-8E66-FE9F066AE607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ED4B926-0610-4088-8E66-FE9F066AE607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ED4B926-0610-4088-8E66-FE9F066AE607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ED4B926-0610-4088-8E66-FE9F066AE607}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

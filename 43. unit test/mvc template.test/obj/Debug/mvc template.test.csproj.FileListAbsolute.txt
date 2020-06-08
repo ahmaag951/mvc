@@ -1,0 +1,44 @@
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\43. unit test\mvc template.test\bin\Debug\mvc template.test.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\43. unit test\mvc template.test\bin\Debug\mvc template.test.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\43. unit test\mvc template.test\bin\Debug\mvc template.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\43. unit test\mvc template.test\bin\Debug\System.Web.Http.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\43. unit test\mvc template.test\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\43. unit test\mvc template.test\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\43. unit test\mvc template.test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\43. unit test\mvc template.test\bin\Debug\mvc template.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\43. unit test\mvc template.test\bin\Debug\System.Web.Http.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\43. unit test\mvc template.test\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\43. unit test\mvc template.test\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\43. unit test\mvc template.test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\43. unit test\mvc template.test\obj\Debug\mvc template.test.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\43. unit test\mvc template.test\obj\Debug\mvc template.test.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\43. unit test\mvc template.test\obj\Debug\mvc template.test.pdb
+F:\CS\Samples\Backend\MVC\43. unit test\mvc template.test\bin\Debug\mvc template.test.dll
+F:\CS\Samples\Backend\MVC\43. unit test\mvc template.test\bin\Debug\mvc template.test.pdb
+F:\CS\Samples\Backend\MVC\43. unit test\mvc template.test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\CS\Samples\Backend\MVC\43. unit test\mvc template.test\bin\Debug\mvc template.dll
+F:\CS\Samples\Backend\MVC\43. unit test\mvc template.test\bin\Debug\System.Web.Http.dll
+F:\CS\Samples\Backend\MVC\43. unit test\mvc template.test\bin\Debug\System.Web.Http.WebHost.dll
+F:\CS\Samples\Backend\MVC\43. unit test\mvc template.test\bin\Debug\System.Web.Razor.dll
+F:\CS\Samples\Backend\MVC\43. unit test\mvc template.test\bin\Debug\System.Web.WebPages.Razor.dll
+F:\CS\Samples\Backend\MVC\43. unit test\mvc template.test\bin\Debug\System.Web.WebPages.dll
+F:\CS\Samples\Backend\MVC\43. unit test\mvc template.test\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\CS\Samples\Backend\MVC\43. unit test\mvc template.test\bin\Debug\System.Net.Http.Formatting.dll
+F:\CS\Samples\Backend\MVC\43. unit test\mvc template.test\bin\Debug\Newtonsoft.Json.dll
+F:\CS\Samples\Backend\MVC\43. unit test\mvc template.test\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\CS\Samples\Backend\MVC\43. unit test\mvc template.test\bin\Debug\mvc template.pdb
+F:\CS\Samples\Backend\MVC\43. unit test\mvc template.test\bin\Debug\mvc template.dll.config
+F:\CS\Samples\Backend\MVC\43. unit test\mvc template.test\bin\Debug\System.Web.Mvc.xml
+F:\CS\Samples\Backend\MVC\43. unit test\mvc template.test\bin\Debug\System.Web.Http.xml
+F:\CS\Samples\Backend\MVC\43. unit test\mvc template.test\bin\Debug\System.Web.Http.WebHost.xml
+F:\CS\Samples\Backend\MVC\43. unit test\mvc template.test\bin\Debug\System.Web.Razor.xml
+F:\CS\Samples\Backend\MVC\43. unit test\mvc template.test\bin\Debug\System.Web.WebPages.Razor.xml
+F:\CS\Samples\Backend\MVC\43. unit test\mvc template.test\bin\Debug\System.Web.WebPages.xml
+F:\CS\Samples\Backend\MVC\43. unit test\mvc template.test\bin\Debug\System.Net.Http.Formatting.xml
+F:\CS\Samples\Backend\MVC\43. unit test\mvc template.test\bin\Debug\Newtonsoft.Json.xml
+F:\CS\Samples\Backend\MVC\43. unit test\mvc template.test\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\CS\Samples\Backend\MVC\43. unit test\mvc template.test\obj\Debug\mvc template.test.csprojResolveAssemblyReference.cache
+F:\CS\Samples\Backend\MVC\43. unit test\mvc template.test\obj\Debug\mvc template.test.csproj.CoreCompileInputs.cache
+F:\CS\Samples\Backend\MVC\43. unit test\mvc template.test\obj\Debug\mvc template.test.csproj.CopyComplete
+F:\CS\Samples\Backend\MVC\43. unit test\mvc template.test\obj\Debug\mvc template.test.dll
+F:\CS\Samples\Backend\MVC\43. unit test\mvc template.test\obj\Debug\mvc template.test.pdb

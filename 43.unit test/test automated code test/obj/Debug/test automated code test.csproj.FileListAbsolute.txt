@@ -1,0 +1,11 @@
+c:\users\admin\documents\visual studio 2012\Projects\Main Soulution\test automated code test\bin\Debug\test automated code test.dll
+c:\users\admin\documents\visual studio 2012\Projects\Main Soulution\test automated code test\bin\Debug\test automated code test.pdb
+c:\users\admin\documents\visual studio 2012\Projects\Main Soulution\test automated code test\obj\Debug\test automated code test.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\Main Soulution\test automated code test\obj\Debug\test automated code test.dll
+c:\users\admin\documents\visual studio 2012\Projects\Main Soulution\test automated code test\obj\Debug\test automated code test.pdb
+F:\CS\Samples\Backend\MVC\43.unit test\test automated code test\bin\Debug\test automated code test.dll
+F:\CS\Samples\Backend\MVC\43.unit test\test automated code test\bin\Debug\test automated code test.pdb
+F:\CS\Samples\Backend\MVC\43.unit test\test automated code test\obj\Debug\test automated code test.csprojResolveAssemblyReference.cache
+F:\CS\Samples\Backend\MVC\43.unit test\test automated code test\obj\Debug\test automated code test.csproj.CoreCompileInputs.cache
+F:\CS\Samples\Backend\MVC\43.unit test\test automated code test\obj\Debug\test automated code test.dll
+F:\CS\Samples\Backend\MVC\43.unit test\test automated code test\obj\Debug\test automated code test.pdb

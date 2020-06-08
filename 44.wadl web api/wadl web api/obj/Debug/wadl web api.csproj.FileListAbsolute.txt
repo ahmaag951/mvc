@@ -1,0 +1,57 @@
+C:\Users\admin\Documents\Visual Studio 2013\Projects\wadl web api\wadl web api\bin\wadl web api.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\wadl web api\wadl web api\bin\wadl web api.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\wadl web api\wadl web api\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\wadl web api\wadl web api\bin\Newtonsoft.Json.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\wadl web api\wadl web api\bin\System.Net.Http.Formatting.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\wadl web api\wadl web api\bin\System.Web.Helpers.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\wadl web api\wadl web api\bin\System.Web.Http.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\wadl web api\wadl web api\bin\System.Web.Http.WebHost.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\wadl web api\wadl web api\bin\System.Web.Mvc.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\wadl web api\wadl web api\bin\System.Web.Razor.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\wadl web api\wadl web api\bin\System.Web.WebPages.Deployment.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\wadl web api\wadl web api\bin\System.Web.WebPages.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\wadl web api\wadl web api\bin\System.Web.WebPages.Razor.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\wadl web api\wadl web api\bin\Newtonsoft.Json.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\wadl web api\wadl web api\bin\System.Net.Http.Formatting.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\wadl web api\wadl web api\bin\System.Web.Helpers.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\wadl web api\wadl web api\bin\System.Web.Http.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\wadl web api\wadl web api\bin\System.Web.Http.WebHost.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\wadl web api\wadl web api\bin\System.Web.Mvc.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\wadl web api\wadl web api\bin\System.Web.Razor.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\wadl web api\wadl web api\bin\System.Web.WebPages.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\wadl web api\wadl web api\bin\System.Web.WebPages.Deployment.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\wadl web api\wadl web api\bin\System.Web.WebPages.Razor.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\wadl web api\wadl web api\obj\Debug\wadl web api.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\wadl web api\wadl web api\obj\Debug\wadl web api.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\wadl web api\wadl web api\obj\Debug\wadl web api.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\wadl web api\wadl web api\bin\leeksnet.AspNet.WebApi.Wadl.dll
+F:\CS\Samples\Backend\MVC\44.wadl web api\wadl web api\bin\wadl web api.dll.config
+F:\CS\Samples\Backend\MVC\44.wadl web api\wadl web api\bin\wadl web api.dll
+F:\CS\Samples\Backend\MVC\44.wadl web api\wadl web api\bin\wadl web api.pdb
+F:\CS\Samples\Backend\MVC\44.wadl web api\wadl web api\bin\leeksnet.AspNet.WebApi.Wadl.dll
+F:\CS\Samples\Backend\MVC\44.wadl web api\wadl web api\bin\Microsoft.Web.Infrastructure.dll
+F:\CS\Samples\Backend\MVC\44.wadl web api\wadl web api\bin\Newtonsoft.Json.dll
+F:\CS\Samples\Backend\MVC\44.wadl web api\wadl web api\bin\System.Net.Http.Formatting.dll
+F:\CS\Samples\Backend\MVC\44.wadl web api\wadl web api\bin\System.Web.Helpers.dll
+F:\CS\Samples\Backend\MVC\44.wadl web api\wadl web api\bin\System.Web.Http.dll
+F:\CS\Samples\Backend\MVC\44.wadl web api\wadl web api\bin\System.Web.Http.WebHost.dll
+F:\CS\Samples\Backend\MVC\44.wadl web api\wadl web api\bin\System.Web.Mvc.dll
+F:\CS\Samples\Backend\MVC\44.wadl web api\wadl web api\bin\System.Web.Razor.dll
+F:\CS\Samples\Backend\MVC\44.wadl web api\wadl web api\bin\System.Web.WebPages.Deployment.dll
+F:\CS\Samples\Backend\MVC\44.wadl web api\wadl web api\bin\System.Web.WebPages.dll
+F:\CS\Samples\Backend\MVC\44.wadl web api\wadl web api\bin\System.Web.WebPages.Razor.dll
+F:\CS\Samples\Backend\MVC\44.wadl web api\wadl web api\bin\Newtonsoft.Json.xml
+F:\CS\Samples\Backend\MVC\44.wadl web api\wadl web api\bin\System.Net.Http.Formatting.xml
+F:\CS\Samples\Backend\MVC\44.wadl web api\wadl web api\bin\System.Web.Helpers.xml
+F:\CS\Samples\Backend\MVC\44.wadl web api\wadl web api\bin\System.Web.Http.xml
+F:\CS\Samples\Backend\MVC\44.wadl web api\wadl web api\bin\System.Web.Http.WebHost.xml
+F:\CS\Samples\Backend\MVC\44.wadl web api\wadl web api\bin\System.Web.Mvc.xml
+F:\CS\Samples\Backend\MVC\44.wadl web api\wadl web api\bin\System.Web.Razor.xml
+F:\CS\Samples\Backend\MVC\44.wadl web api\wadl web api\bin\System.Web.WebPages.xml
+F:\CS\Samples\Backend\MVC\44.wadl web api\wadl web api\bin\System.Web.WebPages.Deployment.xml
+F:\CS\Samples\Backend\MVC\44.wadl web api\wadl web api\bin\System.Web.WebPages.Razor.xml
+F:\CS\Samples\Backend\MVC\44.wadl web api\wadl web api\obj\Debug\wadl web api.csprojResolveAssemblyReference.cache
+F:\CS\Samples\Backend\MVC\44.wadl web api\wadl web api\obj\Debug\wadl web api.csproj.CoreCompileInputs.cache
+F:\CS\Samples\Backend\MVC\44.wadl web api\wadl web api\obj\Debug\wadl web api.csproj.CopyComplete
+F:\CS\Samples\Backend\MVC\44.wadl web api\wadl web api\obj\Debug\wadl web api.dll
+F:\CS\Samples\Backend\MVC\44.wadl web api\wadl web api\obj\Debug\wadl web api.pdb

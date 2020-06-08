@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CompanyModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="CompanyEntities" annotation:LazyLoadingEnabled="true">
+    <FunctionImport Name="UspGetAllCountries" ReturnType="Collection(CompanyModel.UspGetAllCountries_Result)" />
+    <FunctionImport Name="UspGetCountry" ReturnType="Collection(String)">
+      <Parameter Name="coutryId" Mode="In" Type="Int32" />
+    </FunctionImport>
+  </EntityContainer>
+  <ComplexType Name="UspGetAllCountries_Result">
+    <Property Type="Int32" Name="Id" Nullable="false" />
+    <Property Type="String" Name="Name" Nullable="true" MaxLength="50" />
+  </ComplexType>
+  <ComplexType Name="GetCountry_Result">
+    <Property Type="Int32" Name="Id" Nullable="false" />
+    <Property Type="String" Name="Name" Nullable="true" MaxLength="50" />
+  </ComplexType>
+</Schema>

@@ -1,0 +1,17 @@
+c:\users\admin\documents\visual studio 2012\Projects\Main Soulution\TestProject1\bin\Debug\TestProject1.dll
+c:\users\admin\documents\visual studio 2012\Projects\Main Soulution\TestProject1\bin\Debug\TestProject1.pdb
+c:\users\admin\documents\visual studio 2012\Projects\Main Soulution\TestProject1\bin\Debug\test automated code test.dll
+c:\users\admin\documents\visual studio 2012\Projects\Main Soulution\TestProject1\bin\Debug\test automated code test.pdb
+c:\users\admin\documents\visual studio 2012\Projects\Main Soulution\TestProject1\obj\Debug\TestProject1.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\Main Soulution\TestProject1\obj\Debug\TestProject1.dll
+c:\users\admin\documents\visual studio 2012\Projects\Main Soulution\TestProject1\obj\Debug\TestProject1.pdb
+F:\CS\Samples\Backend\MVC\43.unit test\TestProject1\bin\Debug\TestProject1.dll
+F:\CS\Samples\Backend\MVC\43.unit test\TestProject1\bin\Debug\TestProject1.pdb
+F:\CS\Samples\Backend\MVC\43.unit test\TestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\CS\Samples\Backend\MVC\43.unit test\TestProject1\bin\Debug\test automated code test.dll
+F:\CS\Samples\Backend\MVC\43.unit test\TestProject1\bin\Debug\test automated code test.pdb
+F:\CS\Samples\Backend\MVC\43.unit test\TestProject1\obj\Debug\TestProject1.csprojResolveAssemblyReference.cache
+F:\CS\Samples\Backend\MVC\43.unit test\TestProject1\obj\Debug\TestProject1.csproj.CoreCompileInputs.cache
+F:\CS\Samples\Backend\MVC\43.unit test\TestProject1\obj\Debug\TestProject1.csproj.CopyComplete
+F:\CS\Samples\Backend\MVC\43.unit test\TestProject1\obj\Debug\TestProject1.dll
+F:\CS\Samples\Backend\MVC\43.unit test\TestProject1\obj\Debug\TestProject1.pdb

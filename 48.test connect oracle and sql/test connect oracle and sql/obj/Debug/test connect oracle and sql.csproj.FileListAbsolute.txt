@@ -1,0 +1,33 @@
+C:\Users\a.ezzat\source\repos\test connect oracle and sql\test connect oracle and sql\bin\Debug\test connect oracle and sql.exe.config
+C:\Users\a.ezzat\source\repos\test connect oracle and sql\test connect oracle and sql\bin\Debug\test connect oracle and sql.exe
+C:\Users\a.ezzat\source\repos\test connect oracle and sql\test connect oracle and sql\bin\Debug\test connect oracle and sql.pdb
+C:\Users\a.ezzat\source\repos\test connect oracle and sql\test connect oracle and sql\bin\Debug\EntityFramework.dll
+C:\Users\a.ezzat\source\repos\test connect oracle and sql\test connect oracle and sql\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\a.ezzat\source\repos\test connect oracle and sql\test connect oracle and sql\bin\Debug\EntityFramework.xml
+C:\Users\a.ezzat\source\repos\test connect oracle and sql\test connect oracle and sql\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\a.ezzat\source\repos\test connect oracle and sql\test connect oracle and sql\obj\Debug\test connect oracle and sql.csprojResolveAssemblyReference.cache
+C:\Users\a.ezzat\source\repos\test connect oracle and sql\test connect oracle and sql\obj\Debug\test connect oracle and sql.csproj.CoreCompileInputs.cache
+C:\Users\a.ezzat\source\repos\test connect oracle and sql\test connect oracle and sql\obj\Debug\test connect oracle and sql.csproj.CopyComplete
+C:\Users\a.ezzat\source\repos\test connect oracle and sql\test connect oracle and sql\obj\Debug\test connect oracle and sql.exe
+C:\Users\a.ezzat\source\repos\test connect oracle and sql\test connect oracle and sql\obj\Debug\test connect oracle and sql.pdb
+C:\Users\a.ezzat\source\repos\test connect oracle and sql\test connect oracle and sql\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\a.ezzat\source\repos\test connect oracle and sql\test connect oracle and sql\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\a.ezzat\source\repos\test connect oracle and sql\test connect oracle and sql\bin\Debug\AutoMapper.dll
+C:\Users\a.ezzat\source\repos\test connect oracle and sql\test connect oracle and sql\bin\Debug\System.ValueTuple.dll
+C:\Users\a.ezzat\source\repos\test connect oracle and sql\test connect oracle and sql\bin\Debug\System.ValueTuple.xml
+C:\Users\ad\Desktop\test connect oracle and sql\test connect oracle and sql\bin\Debug\test connect oracle and sql.exe.config
+C:\Users\ad\Desktop\test connect oracle and sql\test connect oracle and sql\bin\Debug\test connect oracle and sql.exe
+C:\Users\ad\Desktop\test connect oracle and sql\test connect oracle and sql\bin\Debug\test connect oracle and sql.pdb
+C:\Users\ad\Desktop\test connect oracle and sql\test connect oracle and sql\bin\Debug\EntityFramework.dll
+C:\Users\ad\Desktop\test connect oracle and sql\test connect oracle and sql\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ad\Desktop\test connect oracle and sql\test connect oracle and sql\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\ad\Desktop\test connect oracle and sql\test connect oracle and sql\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\ad\Desktop\test connect oracle and sql\test connect oracle and sql\bin\Debug\System.ValueTuple.dll
+C:\Users\ad\Desktop\test connect oracle and sql\test connect oracle and sql\bin\Debug\EntityFramework.xml
+C:\Users\ad\Desktop\test connect oracle and sql\test connect oracle and sql\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ad\Desktop\test connect oracle and sql\test connect oracle and sql\bin\Debug\System.ValueTuple.xml
+C:\Users\ad\Desktop\test connect oracle and sql\test connect oracle and sql\obj\Debug\test connect oracle and sql.csprojResolveAssemblyReference.cache
+C:\Users\ad\Desktop\test connect oracle and sql\test connect oracle and sql\obj\Debug\test connect oracle and sql.csproj.CoreCompileInputs.cache
+C:\Users\ad\Desktop\test connect oracle and sql\test connect oracle and sql\obj\Debug\test connect oracle and sql.csproj.CopyComplete
+C:\Users\ad\Desktop\test connect oracle and sql\test connect oracle and sql\obj\Debug\test connect oracle and sql.exe
+C:\Users\ad\Desktop\test connect oracle and sql\test connect oracle and sql\obj\Debug\test connect oracle and sql.pdb

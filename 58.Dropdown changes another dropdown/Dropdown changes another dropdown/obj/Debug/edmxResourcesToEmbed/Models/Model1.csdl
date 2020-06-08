@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TestModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="TestEntities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="Cities" EntityType="TestModel.City" />
+    <EntitySet Name="Countries" EntityType="TestModel.Country" />
+    <AssociationSet Name="FK_City_Country" Association="TestModel.FK_City_Country">
+      <End Role="Country" EntitySet="Countries" />
+      <End Role="City" EntitySet="Cities" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="City">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="CountryIdFk" Type="Int32" />
+    <NavigationProperty Name="Country" Relationship="TestModel.FK_City_Country" FromRole="City" ToRole="Country" />
+  </EntityType>
+  <EntityType Name="Country">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="Cities" Relationship="TestModel.FK_City_Country" FromRole="Country" ToRole="City" />
+  </EntityType>
+  <Association Name="FK_City_Country">
+    <End Role="Country" Type="TestModel.Country" Multiplicity="0..1" />
+    <End Role="City" Type="TestModel.City" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Country">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="City">
+        <PropertyRef Name="CountryIdFk" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

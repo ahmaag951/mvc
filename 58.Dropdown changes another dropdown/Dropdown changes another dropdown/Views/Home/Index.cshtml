@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <script src="~/scripts/jquery-1.8.3.js"></script>
+
+</head>
+<body>
+    <div>
+        @Html.DropDownList("Countires", (IEnumerable<SelectListItem>)ViewBag.Countries, "Select country")
+
+        <select id="CitiesDropDown">
+
+            <option>Select city
+            </option>
+        </select>
+
+
+
+    </div>
+    
+        <script>
+            $('#Countires').change(function () {
+                var countryId = this.value;
+                $.ajax({
+                    url: '@Url.Action("GetCities")',
+                data: { CountryId: countryId },
+                type: 'GET',
+                dataType: 'json',
+                success: function (data) {
+                    $("#CitiesDropDown").empty();
+                    $.each(data, function (i) {
+
+                        var optionhtml = '<option value="' +
+                    data[i].Value + '">' + data[i].Text + '</option>';
+                        $("#CitiesDropDown").append(optionhtml);
+                    });
+                },
+            });
+
+        });
+    </script>
+</body>
+</html>

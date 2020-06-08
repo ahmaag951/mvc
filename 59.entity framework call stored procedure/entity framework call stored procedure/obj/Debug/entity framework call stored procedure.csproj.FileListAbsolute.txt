@@ -1,0 +1,8 @@
+C:\Users\admin\Documents\Visual Studio 2013\Projects\entity framework call stored procedure\entity framework call stored procedure\bin\Debug\entity framework call stored procedure.exe.config
+C:\Users\admin\Documents\Visual Studio 2013\Projects\entity framework call stored procedure\entity framework call stored procedure\bin\Debug\entity framework call stored procedure.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\entity framework call stored procedure\entity framework call stored procedure\bin\Debug\entity framework call stored procedure.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\entity framework call stored procedure\entity framework call stored procedure\bin\Debug\EntityFramework.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\entity framework call stored procedure\entity framework call stored procedure\bin\Debug\EntityFramework.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\entity framework call stored procedure\entity framework call stored procedure\obj\Debug\entity framework call stored procedure.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\entity framework call stored procedure\entity framework call stored procedure\obj\Debug\entity framework call stored procedure.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\entity framework call stored procedure\entity framework call stored procedure\obj\Debug\entity framework call stored procedure.pdb
