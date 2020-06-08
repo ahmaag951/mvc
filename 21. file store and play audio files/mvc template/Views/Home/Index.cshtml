@@ -1,0 +1,23 @@
+﻿
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <script src="~/scripts/jquery-3.2.0.min.js"></script>
+    
+</head>
+<body>
+    <div>
+        @using (Html.BeginForm("Upload", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+        {
+            <input type="file" name="file" placeholder="upload file" />
+            <input type="submit" value="Upload sound file" />
+        }
+
+        
+        <audio controls src="@Url.Action("Play")" ></audio>
+    </div>
+</body>
+</html>

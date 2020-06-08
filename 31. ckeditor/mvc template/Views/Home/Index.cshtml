@@ -1,0 +1,34 @@
+﻿
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    
+    <script src="~/scripts/jquery-3.2.0.min.js"></script>
+    <script src="~/ckeditor/ckeditor.js"></script>    
+    <script src="~/ckeditor/adapters/jquery.js"></script>
+    <script>
+        $(document).ready(function () {
+            // You can also give it the class by your hand like <textarea class="ckeditor">
+            $('textarea').ckeditor();
+
+            $('.ckeditor').ckeditor({
+                filebrowserImageBrowseUrl: '/files/CKEditorFiles',
+                filebrowserImageUploadUrl: '/files/uploadCK'
+            });
+
+
+        });
+    </script>
+
+</head>
+<body>
+    <div>
+        
+        
+        <textarea ></textarea>
+    </div>
+</body>
+</html>

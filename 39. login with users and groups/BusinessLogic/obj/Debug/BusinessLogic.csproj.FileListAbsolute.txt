@@ -1,0 +1,24 @@
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\39. login with users and groups\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\39. login with users and groups\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\39. login with users and groups\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\39. login with users and groups\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\39. login with users and groups\BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\39. login with users and groups\BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\39. login with users and groups\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\39. login with users and groups\BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\39. login with users and groups\BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\39. login with users and groups\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\39. login with users and groups\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\39. login with users and groups\BusinessLogic\obj\Debug\BusinessLogic.pdb

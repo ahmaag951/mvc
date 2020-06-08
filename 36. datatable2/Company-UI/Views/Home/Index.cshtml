@@ -1,0 +1,130 @@
+﻿
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <link href="~/Content/index.css" rel="stylesheet" />
+    <script src="~/Scripts/angular.min.js"></script>
+
+</head>
+<body ng-app="myApp" ng-controller="mainController">
+    <div style="width: 637px; float: left;">
+        <input placeholder="search in name" ng-model="nameSearch" />
+        <select ng-model="sort">
+            <option disabled selected value>Sorting</option>
+            <option value="+name">Ascending</option>
+            <option value="-name">Descending</option>
+        </select>
+
+        <table>
+            <tr>
+                <th>
+                    name
+                </th>
+                <th>
+                    email
+                </th>
+                <th>
+                    age
+                </th>
+                <th>
+                    country
+                </th>
+                <th></th>
+            </tr>
+            
+            <tr ng-repeat="item in employeeList  | filter : { name : nameSearch } | orderBy : sort" >
+                <td>
+                    {{ item.name }}
+                </td>
+                <td>
+                    {{ item.email }}
+                </td>
+                <td>
+                    {{ item.age }}
+                </td>
+                <td>
+                    {{ item.country }}
+                </td>
+                <td>
+                    <a href="#" ng-click="showEdit( item.id )">Edit</a>
+                    <a href="#" ng-click="delete($index, item.id)">Delete</a>
+                </td>
+            </tr>
+
+
+        </table>        
+    </div>
+    <div style="width:300px; float:right;">
+        <h4>Employee Information</h4>
+
+
+        <table>
+            @*<tr>
+                <th>
+                    Id
+                </th>
+                <td>
+                    <input ng-model="id" />
+
+                </td>
+
+            </tr>*@
+            <tr>
+                <th>
+                    name
+                </th>
+                <td>
+                    <input ng-model="name" />
+
+                </td>
+
+            </tr>
+
+            <tr>
+                <th>
+                    email
+                </th>
+                <td>
+                    <input ng-model="email" />
+                </td>
+
+            </tr>
+            <tr>
+                <th>
+                    age
+                </th>
+                <td>
+                    <input ng-model="age" />
+                </td>
+            </tr>
+            <tr>
+                <th>
+                    country
+                </th>
+                <td>
+                    {{ countryId }} + {{ country }} 
+                    @*<input ng-model="country" />*@
+                    <select>
+                        <option value="0">Select a country</option>
+                        <option ng-repeat="country in countries" value="{{ country.id }}">{{ country.name }} </option>
+                    </select>
+                    
+                </td>
+            </tr>
+
+        </table>
+        <input type="button" value="add" ng-click="add()" />
+        <input type="button" value="Edit" ng-click="edit()" />
+    </div>
+    
+
+
+    <script src="~/Scripts/appController.js"></script>
+</body>
+
+
+</html>

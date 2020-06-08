@@ -1,0 +1,42 @@
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-BLL\bin\Debug\Company-BLL.dll
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-BLL\bin\Debug\Company-BLL.pdb
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-BLL\bin\Debug\Company-DAL.dll
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-BLL\bin\Debug\EntityFramework.dll
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-BLL\bin\Debug\Company-DAL.pdb
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-BLL\bin\Debug\EntityFramework.xml
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-BLL\obj\Debug\Company-BLL.csprojResolveAssemblyReference.cache
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-BLL\obj\Debug\Company-BLL.dll
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-BLL\obj\Debug\Company-BLL.pdb
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-BLL\bin\Debug\Company-BLL.dll.config
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-BLL\bin\Debug\AutoMapper.dll
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-BLL\bin\Debug\AutoMapper.xml
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-BLL\bin\Debug\System.Linq.Dynamic.dll
+E:\backup\onetimesat\Company-BLL\Company-BLL\bin\Debug\Company-BLL.dll.config
+E:\backup\onetimesat\Company-BLL\Company-BLL\bin\Debug\Company-BLL.dll
+E:\backup\onetimesat\Company-BLL\Company-BLL\bin\Debug\Company-BLL.pdb
+E:\backup\onetimesat\Company-BLL\Company-BLL\bin\Debug\AutoMapper.dll
+E:\backup\onetimesat\Company-BLL\Company-BLL\bin\Debug\Company-DAL.dll
+E:\backup\onetimesat\Company-BLL\Company-BLL\bin\Debug\EntityFramework.dll
+E:\backup\onetimesat\Company-BLL\Company-BLL\bin\Debug\System.Linq.Dynamic.dll
+E:\backup\onetimesat\Company-BLL\Company-BLL\bin\Debug\Company-DAL.pdb
+E:\backup\onetimesat\Company-BLL\Company-BLL\bin\Debug\AutoMapper.xml
+E:\backup\onetimesat\Company-BLL\Company-BLL\bin\Debug\EntityFramework.xml
+E:\backup\onetimesat\Company-BLL\Company-BLL\obj\Debug\Company-BLL.csprojResolveAssemblyReference.cache
+E:\backup\onetimesat\Company-BLL\Company-BLL\obj\Debug\Company-BLL.dll
+E:\backup\onetimesat\Company-BLL\Company-BLL\obj\Debug\Company-BLL.pdb
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-BLL\bin\Debug\Company-BLL.dll.config
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-BLL\bin\Debug\Company-BLL.dll
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-BLL\bin\Debug\Company-BLL.pdb
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-BLL\bin\Debug\AutoMapper.dll
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-BLL\bin\Debug\Company-DAL.dll
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-BLL\bin\Debug\EntityFramework.dll
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-BLL\bin\Debug\System.Linq.Dynamic.dll
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-BLL\bin\Debug\Company-DAL.pdb
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-BLL\bin\Debug\Company-DAL.dll.config
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-BLL\bin\Debug\AutoMapper.xml
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-BLL\bin\Debug\EntityFramework.xml
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-BLL\obj\Debug\Company-BLL.csprojResolveAssemblyReference.cache
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-BLL\obj\Debug\Company-BLL.csproj.CoreCompileInputs.cache
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-BLL\obj\Debug\Company-BLL.csproj.CopyComplete
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-BLL\obj\Debug\Company-BLL.dll
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-BLL\obj\Debug\Company-BLL.pdb

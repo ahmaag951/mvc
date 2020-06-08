@@ -1,0 +1,35 @@
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-DAL\bin\Debug\Company-DAL.dll.config
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-DAL\bin\Debug\Company-DAL.dll
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-DAL\bin\Debug\Company-DAL.pdb
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-DAL\bin\Debug\EntityFramework.dll
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-DAL\bin\Debug\EntityFramework.xml
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-DAL\obj\Debug\Company-DAL.dll
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-DAL\obj\Debug\Company-DAL.pdb
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-DAL\bin\Debug\AutoMapper.dll
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-DAL\bin\Debug\AutoMapper.xml
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-DAL\obj\Debug\Company-DAL.csprojResolveAssemblyReference.cache
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-DAL\bin\Debug\System.Linq.Dynamic.dll
+E:\backup\onetimesat\Company-BLL\Company-DAL\bin\Debug\Company-DAL.dll.config
+E:\backup\onetimesat\Company-BLL\Company-DAL\bin\Debug\Company-DAL.dll
+E:\backup\onetimesat\Company-BLL\Company-DAL\bin\Debug\Company-DAL.pdb
+E:\backup\onetimesat\Company-BLL\Company-DAL\bin\Debug\AutoMapper.dll
+E:\backup\onetimesat\Company-BLL\Company-DAL\bin\Debug\EntityFramework.dll
+E:\backup\onetimesat\Company-BLL\Company-DAL\bin\Debug\System.Linq.Dynamic.dll
+E:\backup\onetimesat\Company-BLL\Company-DAL\bin\Debug\AutoMapper.xml
+E:\backup\onetimesat\Company-BLL\Company-DAL\bin\Debug\EntityFramework.xml
+E:\backup\onetimesat\Company-BLL\Company-DAL\obj\Debug\Company-DAL.csprojResolveAssemblyReference.cache
+E:\backup\onetimesat\Company-BLL\Company-DAL\obj\Debug\Company-DAL.dll
+E:\backup\onetimesat\Company-BLL\Company-DAL\obj\Debug\Company-DAL.pdb
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-DAL\bin\Debug\Company-DAL.dll.config
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-DAL\bin\Debug\Company-DAL.dll
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-DAL\bin\Debug\Company-DAL.pdb
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-DAL\bin\Debug\AutoMapper.dll
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-DAL\bin\Debug\EntityFramework.dll
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-DAL\bin\Debug\System.Linq.Dynamic.dll
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-DAL\bin\Debug\AutoMapper.xml
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-DAL\bin\Debug\EntityFramework.xml
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-DAL\obj\Debug\Company-DAL.csprojResolveAssemblyReference.cache
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-DAL\obj\Debug\Company-DAL.csproj.CoreCompileInputs.cache
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-DAL\obj\Debug\Company-DAL.csproj.CopyComplete
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-DAL\obj\Debug\Company-DAL.dll
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-DAL\obj\Debug\Company-DAL.pdb

@@ -1,0 +1,25 @@
+﻿@model mvc_template.User
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+
+    <script src="~/scripts/jquery-1.4.4.js"></script>
+    <script src="~/scripts/jquery.validate.js"></script>
+    <script src="~/scripts/jquery.validate.unobtrusive.js"></script>
+
+</head>
+<body>
+    <div>
+        @using (Html.BeginForm())
+        {
+            @Html.TextBoxFor(r => r.Email) <br />
+            @Html.ValidationMessageFor(r => r.Email)<br />
+
+            <input type="submit" value="Save" />
+        }
+    </div>
+</body>
+</html>

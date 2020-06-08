@@ -1,0 +1,19 @@
+﻿
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <script src="~/scripts/jquery-3.2.0.min.js"></script>
+    
+</head>
+<body>
+    <div>
+        This is the index page <br/>
+        Welcome @User.Identity.Name <br/>
+        
+        @Html.ActionLink("Logout", "Logout", "Home")
+    </div>
+</body>
+</html>

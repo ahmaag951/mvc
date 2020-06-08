@@ -1,0 +1,20 @@
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\34. predicate builder search\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\34. predicate builder search\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\34. predicate builder search\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\34. predicate builder search\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\34. predicate builder search\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\34. predicate builder search\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\34. predicate builder search\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\34. predicate builder search\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\34. predicate builder search\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\34. predicate builder search\DataAccess\obj\Debug\DataAccess.pdb

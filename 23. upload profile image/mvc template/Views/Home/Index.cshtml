@@ -1,0 +1,33 @@
+﻿
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <script src="~/scripts/jquery-3.2.0.min.js"></script>
+    <script>
+        $(function () {
+            
+
+            $("#uploadImage").bind('change', function () {
+                if (this.files && this.files[0]) {
+                    var reader = new FileReader();
+                    reader.onload = function (e) {
+                        $('#image').attr('src', e.target.result);
+                    };
+                    reader.readAsDataURL(this.files[0]);
+                }
+            });
+        });
+    </script>
+</head>
+<body>
+    <div>
+        <img id="image" alt="Photo" src="/ProfileImages/profile.jpg"/>
+
+        @* accept images only *@
+        <input type="file" id="uploadImage" accept="image/*" />
+    </div>
+</body>
+</html>

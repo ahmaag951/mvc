@@ -1,0 +1,11 @@
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-DAL\bin\Debug\Company-DAL.dll.config
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-DAL\bin\Debug\Company-DAL.dll
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-DAL\bin\Debug\Company-DAL.pdb
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-DAL\bin\Debug\EntityFramework.dll
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-DAL\bin\Debug\EntityFramework.xml
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-DAL\obj\Debug\Company-DAL.dll
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-DAL\obj\Debug\Company-DAL.pdb
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-DAL\bin\Debug\AutoMapper.dll
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-DAL\bin\Debug\AutoMapper.xml
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-DAL\obj\Debug\Company-DAL.csprojResolveAssemblyReference.cache
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-DAL\bin\Debug\System.Linq.Dynamic.dll

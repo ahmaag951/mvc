@@ -1,0 +1,26 @@
+﻿@model mvc_template.MyModel
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <script src="~/scripts/jquery-3.2.0.min.js"></script>
+
+    <script src="~/Scripts/tinymce/tinymce.min.js"></script>
+    <script src="~/Scripts/tinymce/EditorConfigurationAr.js"></script>
+
+</head>
+<body>
+    <div>
+        @using (Html.BeginForm())
+        {
+            @Html.TextAreaFor(r => r.Text)
+            <input  type="submit" value="save" />
+        }
+        
+
+
+    </div>
+</body>
+</html>

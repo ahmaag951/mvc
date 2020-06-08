@@ -1,0 +1,230 @@
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-UI\bin\Company-UI.dll
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-UI\bin\Company-UI.pdb
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-UI\bin\Antlr3.Runtime.dll
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-UI\bin\Company-BLL.dll
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-UI\bin\Company-DAL.dll
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-UI\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-UI\bin\DotNetOpenAuth.Core.dll
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-UI\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-UI\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-UI\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-UI\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-UI\bin\EntityFramework.dll
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-UI\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-UI\bin\Newtonsoft.Json.dll
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-UI\bin\System.Net.Http.Formatting.dll
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-UI\bin\System.Web.Helpers.dll
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-UI\bin\System.Web.Http.dll
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-UI\bin\System.Web.Http.WebHost.dll
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-UI\bin\System.Web.Mvc.dll
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-UI\bin\System.Web.Optimization.dll
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-UI\bin\System.Web.Razor.dll
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-UI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-UI\bin\System.Web.WebPages.dll
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-UI\bin\System.Web.WebPages.Razor.dll
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-UI\bin\WebGrease.dll
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-UI\bin\WebMatrix.Data.dll
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-UI\bin\WebMatrix.WebData.dll
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-UI\bin\Company-BLL.pdb
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-UI\bin\Company-DAL.pdb
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-UI\bin\EntityFramework.xml
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-UI\bin\Newtonsoft.Json.xml
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-UI\bin\System.Net.Http.Formatting.xml
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-UI\bin\System.Web.Helpers.xml
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-UI\bin\System.Web.Http.xml
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-UI\bin\System.Web.Http.WebHost.xml
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-UI\bin\System.Web.Mvc.xml
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-UI\bin\System.Web.Razor.xml
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-UI\bin\System.Web.WebPages.xml
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-UI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-UI\bin\System.Web.WebPages.Razor.xml
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-UI\bin\WebMatrix.Data.xml
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-UI\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-UI\bin\WebMatrix.WebData.xml
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-UI\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-UI\bin\DotNetOpenAuth.Core.xml
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-UI\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-UI\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-UI\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-UI\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-UI\obj\Debug\Company-UI.csprojResolveAssemblyReference.cache
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-UI\obj\Debug\Company-UI.dll
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-UI\obj\Debug\Company-UI.pdb
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-UI\bin\AutoMapper.dll
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-UI\bin\AutoMapper.xml
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\Company-BLL\Company-UI\bin\System.Linq.Dynamic.dll
+C:\Users\ahmed.ezzat\Desktop\Company-BLL\Company-UI\bin\Company-UI.dll
+C:\Users\ahmed.ezzat\Desktop\Company-BLL\Company-UI\bin\Company-UI.pdb
+C:\Users\ahmed.ezzat\Desktop\Company-BLL\Company-UI\bin\Antlr3.Runtime.dll
+C:\Users\ahmed.ezzat\Desktop\Company-BLL\Company-UI\bin\AutoMapper.dll
+C:\Users\ahmed.ezzat\Desktop\Company-BLL\Company-UI\bin\Company-BLL.dll
+C:\Users\ahmed.ezzat\Desktop\Company-BLL\Company-UI\bin\Company-DAL.dll
+C:\Users\ahmed.ezzat\Desktop\Company-BLL\Company-UI\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\ahmed.ezzat\Desktop\Company-BLL\Company-UI\bin\DotNetOpenAuth.Core.dll
+C:\Users\ahmed.ezzat\Desktop\Company-BLL\Company-UI\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\ahmed.ezzat\Desktop\Company-BLL\Company-UI\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\ahmed.ezzat\Desktop\Company-BLL\Company-UI\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\ahmed.ezzat\Desktop\Company-BLL\Company-UI\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\ahmed.ezzat\Desktop\Company-BLL\Company-UI\bin\EntityFramework.dll
+C:\Users\ahmed.ezzat\Desktop\Company-BLL\Company-UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ahmed.ezzat\Desktop\Company-BLL\Company-UI\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\ahmed.ezzat\Desktop\Company-BLL\Company-UI\bin\Newtonsoft.Json.dll
+C:\Users\ahmed.ezzat\Desktop\Company-BLL\Company-UI\bin\System.Linq.Dynamic.dll
+C:\Users\ahmed.ezzat\Desktop\Company-BLL\Company-UI\bin\System.Net.Http.Formatting.dll
+C:\Users\ahmed.ezzat\Desktop\Company-BLL\Company-UI\bin\System.Web.Helpers.dll
+C:\Users\ahmed.ezzat\Desktop\Company-BLL\Company-UI\bin\System.Web.Http.dll
+C:\Users\ahmed.ezzat\Desktop\Company-BLL\Company-UI\bin\System.Web.Http.WebHost.dll
+C:\Users\ahmed.ezzat\Desktop\Company-BLL\Company-UI\bin\System.Web.Mvc.dll
+C:\Users\ahmed.ezzat\Desktop\Company-BLL\Company-UI\bin\System.Web.Optimization.dll
+C:\Users\ahmed.ezzat\Desktop\Company-BLL\Company-UI\bin\System.Web.Razor.dll
+C:\Users\ahmed.ezzat\Desktop\Company-BLL\Company-UI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ahmed.ezzat\Desktop\Company-BLL\Company-UI\bin\System.Web.WebPages.dll
+C:\Users\ahmed.ezzat\Desktop\Company-BLL\Company-UI\bin\System.Web.WebPages.Razor.dll
+C:\Users\ahmed.ezzat\Desktop\Company-BLL\Company-UI\bin\WebGrease.dll
+C:\Users\ahmed.ezzat\Desktop\Company-BLL\Company-UI\bin\WebMatrix.Data.dll
+C:\Users\ahmed.ezzat\Desktop\Company-BLL\Company-UI\bin\WebMatrix.WebData.dll
+C:\Users\ahmed.ezzat\Desktop\Company-BLL\Company-UI\bin\Company-BLL.pdb
+C:\Users\ahmed.ezzat\Desktop\Company-BLL\Company-UI\bin\Company-DAL.pdb
+C:\Users\ahmed.ezzat\Desktop\Company-BLL\Company-UI\bin\AutoMapper.xml
+C:\Users\ahmed.ezzat\Desktop\Company-BLL\Company-UI\bin\EntityFramework.xml
+C:\Users\ahmed.ezzat\Desktop\Company-BLL\Company-UI\bin\Newtonsoft.Json.xml
+C:\Users\ahmed.ezzat\Desktop\Company-BLL\Company-UI\bin\System.Net.Http.Formatting.xml
+C:\Users\ahmed.ezzat\Desktop\Company-BLL\Company-UI\bin\System.Web.Helpers.xml
+C:\Users\ahmed.ezzat\Desktop\Company-BLL\Company-UI\bin\System.Web.Http.xml
+C:\Users\ahmed.ezzat\Desktop\Company-BLL\Company-UI\bin\System.Web.Http.WebHost.xml
+C:\Users\ahmed.ezzat\Desktop\Company-BLL\Company-UI\bin\System.Web.Mvc.xml
+C:\Users\ahmed.ezzat\Desktop\Company-BLL\Company-UI\bin\System.Web.Razor.xml
+C:\Users\ahmed.ezzat\Desktop\Company-BLL\Company-UI\bin\System.Web.WebPages.xml
+C:\Users\ahmed.ezzat\Desktop\Company-BLL\Company-UI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ahmed.ezzat\Desktop\Company-BLL\Company-UI\bin\System.Web.WebPages.Razor.xml
+C:\Users\ahmed.ezzat\Desktop\Company-BLL\Company-UI\bin\WebMatrix.Data.xml
+C:\Users\ahmed.ezzat\Desktop\Company-BLL\Company-UI\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\ahmed.ezzat\Desktop\Company-BLL\Company-UI\bin\WebMatrix.WebData.xml
+C:\Users\ahmed.ezzat\Desktop\Company-BLL\Company-UI\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\ahmed.ezzat\Desktop\Company-BLL\Company-UI\bin\DotNetOpenAuth.Core.xml
+C:\Users\ahmed.ezzat\Desktop\Company-BLL\Company-UI\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\ahmed.ezzat\Desktop\Company-BLL\Company-UI\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\ahmed.ezzat\Desktop\Company-BLL\Company-UI\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\ahmed.ezzat\Desktop\Company-BLL\Company-UI\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\ahmed.ezzat\Desktop\Company-BLL\Company-UI\obj\Debug\Company-UI.csprojResolveAssemblyReference.cache
+C:\Users\ahmed.ezzat\Desktop\Company-BLL\Company-UI\obj\Debug\Company-UI.dll
+C:\Users\ahmed.ezzat\Desktop\Company-BLL\Company-UI\obj\Debug\Company-UI.pdb
+E:\backup\onetimesat\Company-BLL\Company-UI\bin\Company-UI.dll.config
+E:\backup\onetimesat\Company-BLL\Company-UI\bin\Company-UI.dll
+E:\backup\onetimesat\Company-BLL\Company-UI\bin\Company-UI.pdb
+E:\backup\onetimesat\Company-BLL\Company-UI\bin\Antlr3.Runtime.dll
+E:\backup\onetimesat\Company-BLL\Company-UI\bin\AutoMapper.dll
+E:\backup\onetimesat\Company-BLL\Company-UI\bin\Company-BLL.dll
+E:\backup\onetimesat\Company-BLL\Company-UI\bin\Company-DAL.dll
+E:\backup\onetimesat\Company-BLL\Company-UI\bin\DotNetOpenAuth.AspNet.dll
+E:\backup\onetimesat\Company-BLL\Company-UI\bin\DotNetOpenAuth.Core.dll
+E:\backup\onetimesat\Company-BLL\Company-UI\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\backup\onetimesat\Company-BLL\Company-UI\bin\DotNetOpenAuth.OAuth.dll
+E:\backup\onetimesat\Company-BLL\Company-UI\bin\DotNetOpenAuth.OpenId.dll
+E:\backup\onetimesat\Company-BLL\Company-UI\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\backup\onetimesat\Company-BLL\Company-UI\bin\EntityFramework.dll
+E:\backup\onetimesat\Company-BLL\Company-UI\bin\Microsoft.Web.Infrastructure.dll
+E:\backup\onetimesat\Company-BLL\Company-UI\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\backup\onetimesat\Company-BLL\Company-UI\bin\Newtonsoft.Json.dll
+E:\backup\onetimesat\Company-BLL\Company-UI\bin\System.Linq.Dynamic.dll
+E:\backup\onetimesat\Company-BLL\Company-UI\bin\System.Net.Http.Formatting.dll
+E:\backup\onetimesat\Company-BLL\Company-UI\bin\System.Web.Helpers.dll
+E:\backup\onetimesat\Company-BLL\Company-UI\bin\System.Web.Http.dll
+E:\backup\onetimesat\Company-BLL\Company-UI\bin\System.Web.Http.WebHost.dll
+E:\backup\onetimesat\Company-BLL\Company-UI\bin\System.Web.Mvc.dll
+E:\backup\onetimesat\Company-BLL\Company-UI\bin\System.Web.Optimization.dll
+E:\backup\onetimesat\Company-BLL\Company-UI\bin\System.Web.Razor.dll
+E:\backup\onetimesat\Company-BLL\Company-UI\bin\System.Web.WebPages.Deployment.dll
+E:\backup\onetimesat\Company-BLL\Company-UI\bin\System.Web.WebPages.dll
+E:\backup\onetimesat\Company-BLL\Company-UI\bin\System.Web.WebPages.Razor.dll
+E:\backup\onetimesat\Company-BLL\Company-UI\bin\WebGrease.dll
+E:\backup\onetimesat\Company-BLL\Company-UI\bin\WebMatrix.Data.dll
+E:\backup\onetimesat\Company-BLL\Company-UI\bin\WebMatrix.WebData.dll
+E:\backup\onetimesat\Company-BLL\Company-UI\bin\Company-BLL.pdb
+E:\backup\onetimesat\Company-BLL\Company-UI\bin\Company-DAL.pdb
+E:\backup\onetimesat\Company-BLL\Company-UI\bin\AutoMapper.xml
+E:\backup\onetimesat\Company-BLL\Company-UI\bin\EntityFramework.xml
+E:\backup\onetimesat\Company-BLL\Company-UI\bin\Newtonsoft.Json.xml
+E:\backup\onetimesat\Company-BLL\Company-UI\bin\System.Net.Http.Formatting.xml
+E:\backup\onetimesat\Company-BLL\Company-UI\bin\System.Web.Helpers.xml
+E:\backup\onetimesat\Company-BLL\Company-UI\bin\System.Web.Http.xml
+E:\backup\onetimesat\Company-BLL\Company-UI\bin\System.Web.Http.WebHost.xml
+E:\backup\onetimesat\Company-BLL\Company-UI\bin\System.Web.Mvc.xml
+E:\backup\onetimesat\Company-BLL\Company-UI\bin\System.Web.Razor.xml
+E:\backup\onetimesat\Company-BLL\Company-UI\bin\System.Web.WebPages.xml
+E:\backup\onetimesat\Company-BLL\Company-UI\bin\System.Web.WebPages.Deployment.xml
+E:\backup\onetimesat\Company-BLL\Company-UI\bin\System.Web.WebPages.Razor.xml
+E:\backup\onetimesat\Company-BLL\Company-UI\bin\WebMatrix.Data.xml
+E:\backup\onetimesat\Company-BLL\Company-UI\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\backup\onetimesat\Company-BLL\Company-UI\bin\WebMatrix.WebData.xml
+E:\backup\onetimesat\Company-BLL\Company-UI\bin\DotNetOpenAuth.AspNet.xml
+E:\backup\onetimesat\Company-BLL\Company-UI\bin\DotNetOpenAuth.Core.xml
+E:\backup\onetimesat\Company-BLL\Company-UI\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\backup\onetimesat\Company-BLL\Company-UI\bin\DotNetOpenAuth.OAuth.xml
+E:\backup\onetimesat\Company-BLL\Company-UI\bin\DotNetOpenAuth.OpenId.xml
+E:\backup\onetimesat\Company-BLL\Company-UI\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\backup\onetimesat\Company-BLL\Company-UI\obj\Debug\Company-UI.csprojResolveAssemblyReference.cache
+E:\backup\onetimesat\Company-BLL\Company-UI\obj\Debug\Company-UI.dll
+E:\backup\onetimesat\Company-BLL\Company-UI\obj\Debug\Company-UI.pdb
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-UI\bin\Company-UI.dll.config
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-UI\bin\Company-UI.dll
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-UI\bin\Company-UI.pdb
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-UI\bin\Antlr3.Runtime.dll
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-UI\bin\AutoMapper.dll
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-UI\bin\Company-BLL.dll
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-UI\bin\Company-DAL.dll
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-UI\bin\DotNetOpenAuth.AspNet.dll
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-UI\bin\DotNetOpenAuth.Core.dll
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-UI\bin\DotNetOpenAuth.OAuth.Consumer.dll
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-UI\bin\DotNetOpenAuth.OAuth.dll
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-UI\bin\DotNetOpenAuth.OpenId.dll
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-UI\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-UI\bin\EntityFramework.dll
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-UI\bin\Microsoft.Web.Infrastructure.dll
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-UI\bin\Microsoft.Web.WebPages.OAuth.dll
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-UI\bin\Newtonsoft.Json.dll
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-UI\bin\System.Linq.Dynamic.dll
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-UI\bin\System.Net.Http.Formatting.dll
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-UI\bin\System.Web.Helpers.dll
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-UI\bin\System.Web.Http.dll
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-UI\bin\System.Web.Http.WebHost.dll
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-UI\bin\System.Web.Mvc.dll
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-UI\bin\System.Web.Optimization.dll
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-UI\bin\System.Web.Razor.dll
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-UI\bin\System.Web.WebPages.Deployment.dll
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-UI\bin\System.Web.WebPages.dll
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-UI\bin\System.Web.WebPages.Razor.dll
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-UI\bin\WebGrease.dll
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-UI\bin\WebMatrix.Data.dll
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-UI\bin\WebMatrix.WebData.dll
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-UI\bin\Company-BLL.pdb
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-UI\bin\Company-BLL.dll.config
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-UI\bin\Company-DAL.pdb
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-UI\bin\Company-DAL.dll.config
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-UI\bin\AutoMapper.xml
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-UI\bin\EntityFramework.xml
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-UI\bin\Newtonsoft.Json.xml
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-UI\bin\System.Net.Http.Formatting.xml
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-UI\bin\System.Web.Helpers.xml
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-UI\bin\System.Web.Http.xml
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-UI\bin\System.Web.Http.WebHost.xml
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-UI\bin\System.Web.Mvc.xml
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-UI\bin\System.Web.Razor.xml
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-UI\bin\System.Web.WebPages.xml
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-UI\bin\System.Web.WebPages.Deployment.xml
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-UI\bin\System.Web.WebPages.Razor.xml
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-UI\bin\WebMatrix.Data.xml
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-UI\bin\Microsoft.Web.WebPages.OAuth.xml
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-UI\bin\WebMatrix.WebData.xml
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-UI\bin\DotNetOpenAuth.AspNet.xml
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-UI\bin\DotNetOpenAuth.Core.xml
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-UI\bin\DotNetOpenAuth.OAuth.Consumer.xml
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-UI\bin\DotNetOpenAuth.OAuth.xml
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-UI\bin\DotNetOpenAuth.OpenId.xml
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-UI\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-UI\obj\Debug\Company-UI.csprojResolveAssemblyReference.cache
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-UI\obj\Debug\Company-UI.csproj.CoreCompileInputs.cache
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-UI\obj\Debug\Company-UI.csproj.CopyComplete
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-UI\obj\Debug\Company-UI.dll
+F:\CS\Samples\Backend\MVC\Company-BLL\Company-UI\obj\Debug\Company-UI.pdb

@@ -1,0 +1,19 @@
+﻿@model mvc_template.Models.TheBigModel
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <script src="~/scripts/jquery-1.4.4.js"></script>
+    
+</head>
+<body>
+    <div>
+        @Html.Partial("_Partial1", Model.Model1)
+    </div>
+    <div>
+        @Html.Partial("_Partial2", Model.Model2)
+    </div>
+</body>
+</html>

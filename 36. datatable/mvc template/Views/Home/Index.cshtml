@@ -1,0 +1,96 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <link href="~/styles/jquery.dataTables.min.css" rel="stylesheet" />
+   
+    @* The bootstrap styles are important for the datatable *@
+    <link href="~/bootstrap/css/bootstrap-theme.css" rel="stylesheet" />    
+    <link href="~/bootstrap/css/bootstrap.css" rel="stylesheet" />
+    
+    <script src="~/scripts/jquery-1.8.2.min.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/v/dt/dt-1.10.13/datatables.min.js"></script>
+    
+    <script src="~/scripts/jquery.dataTables.js"></script>
+    <script src="~/scripts/dataTables.bootstrap4.min.js"></script>
+    
+    
+    <script>
+        $(document).ready(function () {
+            var table = $('#example').DataTable({
+                "processing": true,
+                "serverSide": true,
+                "filter": true,
+                "orderMulti": false,
+                "dom": '<"top"l>rt<"bottom"ip><"clear">',
+                "Paginate": true,
+                "ajax": {
+                    "url": "/Home/loadData",
+                    "type": "POST",
+                    "datatype": "json"
+                },
+                //"columnDefs": [
+                //    {
+                //        "targets": 6,
+                //        "data": "download_link",
+                //        "render": function (data, type, full, meta) {
+                //            return '<a  onclick="editPlan( ' + data + ' )">Edit</a>';
+                //        }
+                //    },
+                //    {
+                //        "targets": 2,
+
+                //        "data": 'date',
+                //        "render": function (data, type, full, meta) {
+                //            // console.log(data);
+                //            if (data != null) {
+                //                var javascriptDate = new Date(parseInt(data.substr(6)));
+                //                // console.log(javascriptDate);
+                //                javascriptDate = javascriptDate.getDate() + "/" + (javascriptDate.getMonth() + 1) + "/" + javascriptDate.getFullYear() + " " + javascriptDate.getHours() + ":" + javascriptDate.getMinutes();
+                //                return "<div class='date'>" + javascriptDate + "<div>";
+                //            } else {
+                //                return "<div class='date'><div>";
+                //            }
+                //        }
+                //    },
+                //],
+                "columns": [
+                    { "data": "email", "name": "email", "autoWidth": true },
+                    { "data": "age", "name": "age", "autoWidth": true },
+
+                ]
+            });
+        });
+
+    </script>
+
+</head>
+<body>
+    <div>
+
+        <table id="example" class="table">
+            <thead>
+                <tr>
+                    <th>Name
+                    </th>
+                    <th>age
+                    </th>
+
+                </tr>
+            </thead>
+
+            <tbody>
+                <tr>
+                    <td></td>
+                    <td></td>
+
+                </tr>
+            </tbody>
+        </table>
+
+
+    </div>
+</body>
+</html>

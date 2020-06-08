@@ -1,0 +1,25 @@
+﻿
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <script src="~/scripts/jquery-3.2.0.min.js"></script>
+
+</head>
+<body>
+    <div>
+        @using (Html.BeginForm("Page", "Home"))// Please note that "Home" is very important
+        {
+            <input type="text" placeholder="Name" name="name" />
+            // not the two buttons will always be shown
+            // you will give the two of them conditions to be shown or hidden
+            
+            // please note that 'the value and the name' the two of them are important
+            <button type="submit" value="Add" name="Add">Add</button>
+            <button type="submit" value="Edit" name="Edit">Edit</button>
+        }
+    </div>
+</body>
+</html>

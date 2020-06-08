@@ -1,0 +1,29 @@
+﻿
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <link href="~/styles/bootstrap-datepicker.css" rel="stylesheet" />
+    <script src="~/scripts/jquery-3.2.0.min.js"></script>
+
+    <script src="~/scripts/bootstrap-datepicker.js"></script>
+    @*<script src="~/scripts/jquery.ui.datepicker.js"></script>*@
+    
+</head>
+<body>
+    <div>
+        <input id="birthdate" />
+    </div>
+    <script>
+        $("#birthdate").keydown(false);
+        $("#birthdate").datepicker({
+            changeMonth: true,
+            yearRange: '1950:2020',
+            maxDate: new Date(),
+            changeYear: true
+        });
+    </script>
+</body>
+</html>

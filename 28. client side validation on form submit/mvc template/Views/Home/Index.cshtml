@@ -1,0 +1,40 @@
+﻿@model mvc_template.User
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+
+    <script src="~/scripts/jquery-1.4.4.js"></script>
+    <script src="~/scripts/jquery.validate.js"></script>
+    <script src="~/scripts/jquery.validate.unobtrusive.js"></script>
+
+    <script>
+
+        $(document).ready(function () {
+            $('form').submit(function (e) {
+                alert('I am preventing the submit');
+
+                // do your checks and your logic here(if... else)
+                // and show the validation messages if you want
+                // This line prevents the submit operation
+                e.preventDefault();
+            });
+        });
+    </script>
+
+</head>
+<body>
+    <div>
+        @using (Html.BeginForm())
+        {
+            @Html.TextBoxFor(r => r.Email) <br />
+            @Html.ValidationMessageFor(r => r.Email)<br />
+
+            <input type="submit" value="Save" />
+        }
+    </div>
+    
+</body>
+</html>

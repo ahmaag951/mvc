@@ -1,0 +1,52 @@
+﻿
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <script src="~/scripts/jquery-3.2.0.min.js"></script>
+
+    <script src="~/scripts/jquery.signalR-2.2.1.js"></script>
+    <script src="~/signalr/hubs"></script>
+
+    <script>
+
+        $(function () {
+            var hub = $.connection.myHub; // This is very very important (The class is nameed "M"yHub, but you have to call it here "m"yHub
+
+            $.connection.hub.logging = true;
+
+            hub.client.newMessage = function (message) {
+                //alert('client: ' + message)
+                $('#chat').append(message)
+            }
+
+            $.connection.hub.start().done(function () {
+                //hello();
+                
+            });
+            
+            $('#btnSend').on('click', function () {
+                
+                hub.server.send($('#text').val());
+            })
+
+        });
+
+        
+        
+
+
+    </script>
+</head>
+<body>
+    <div id="chat">
+        The start <br />
+    </div>
+    <br />
+    <input id="text" type="text" placeholder="text here" />
+
+    <button id="btnSend">send</button>
+</body>
+</html>

@@ -1,0 +1,24 @@
+﻿@model DataAccess.User
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Login</title>
+</head>
+<body>
+    <div>
+        @using (Html.BeginForm("Login", "Home"))
+        {
+            @Html.LabelFor(r => r.Username)
+            @Html.TextBoxFor(r => r.Username)
+            <br />
+            @Html.LabelFor(r => r.Password)
+            @Html.PasswordFor(r => r.Password)
+
+            <input type="submit" value="Login" />
+        }
+    </div>
+</body>
+</html>

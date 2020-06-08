@@ -1,0 +1,28 @@
+﻿@model mvc_template.Models.Model1
+
+<script src="~/scripts/jquery-1.4.4.js"></script>
+<script src="~/scripts/jquery.validate.js"></script>
+<script src="~/scripts/jquery.validate.unobtrusive.js"></script>
+
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>Model1</legend>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Prop1)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Prop1)
+            @Html.ValidationMessageFor(model => model.Prop1)
+        </div>
+
+        <p>
+            <input type="submit" value="Create" />
+        </p>
+    </fieldset>
+}
+
+
