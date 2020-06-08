@@ -1,0 +1,64 @@
+﻿@model DataAccess.Employee
+
+
+@*<script src="~/Scripts/jquery-1.8.2.min.js"></script>
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>*@
+<script src="~/scripts/jquery-3.2.0.min.js"></script>
+<script src="~/scripts/jquery.unobtrusive-ajax.js"></script>
+
+@using (Ajax.BeginForm("Edit", new AjaxOptions
+    {
+        InsertionMode = InsertionMode.Replace,
+        UpdateTargetId = "index",
+        OnSuccess = "clearUpdate"
+    }))
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset id="editFieldSet">
+        <legend>Employee</legend>
+
+        @Html.HiddenFor(model => model.id)
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.name)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.name)
+            @Html.ValidationMessageFor(model => model.name)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.email)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.email)
+            @Html.ValidationMessageFor(model => model.email)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.age)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.age)
+            @Html.ValidationMessageFor(model => model.age)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Country)
+        </div>
+        <div class="editor-field">
+            @Html.DropDownListFor(model => model.countryId, (IEnumerable<SelectListItem>)ViewBag.Countires, "Select country")
+            @Html.ValidationMessageFor(model => model.countryId)
+        </div>
+
+        <p>
+            <input type="submit" value="Save" />
+        </p>
+    </fieldset>
+
+}
+
+

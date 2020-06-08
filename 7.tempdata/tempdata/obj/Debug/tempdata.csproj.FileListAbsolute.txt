@@ -1,0 +1,52 @@
+c:\users\admin\documents\visual studio 2012\Projects\tempdata\tempdata\bin\tempdata.dll
+c:\users\admin\documents\visual studio 2012\Projects\tempdata\tempdata\bin\tempdata.pdb
+c:\users\admin\documents\visual studio 2012\Projects\tempdata\tempdata\bin\Microsoft.Web.Infrastructure.dll
+c:\users\admin\documents\visual studio 2012\Projects\tempdata\tempdata\bin\Newtonsoft.Json.dll
+c:\users\admin\documents\visual studio 2012\Projects\tempdata\tempdata\bin\System.Net.Http.Formatting.dll
+c:\users\admin\documents\visual studio 2012\Projects\tempdata\tempdata\bin\System.Web.Helpers.dll
+c:\users\admin\documents\visual studio 2012\Projects\tempdata\tempdata\bin\System.Web.Http.dll
+c:\users\admin\documents\visual studio 2012\Projects\tempdata\tempdata\bin\System.Web.Http.WebHost.dll
+c:\users\admin\documents\visual studio 2012\Projects\tempdata\tempdata\bin\System.Web.Mvc.dll
+c:\users\admin\documents\visual studio 2012\Projects\tempdata\tempdata\bin\System.Web.Razor.dll
+c:\users\admin\documents\visual studio 2012\Projects\tempdata\tempdata\bin\System.Web.WebPages.Deployment.dll
+c:\users\admin\documents\visual studio 2012\Projects\tempdata\tempdata\bin\System.Web.WebPages.dll
+c:\users\admin\documents\visual studio 2012\Projects\tempdata\tempdata\bin\System.Web.WebPages.Razor.dll
+c:\users\admin\documents\visual studio 2012\Projects\tempdata\tempdata\bin\Newtonsoft.Json.xml
+c:\users\admin\documents\visual studio 2012\Projects\tempdata\tempdata\bin\System.Net.Http.Formatting.xml
+c:\users\admin\documents\visual studio 2012\Projects\tempdata\tempdata\bin\System.Web.Helpers.xml
+c:\users\admin\documents\visual studio 2012\Projects\tempdata\tempdata\bin\System.Web.Http.xml
+c:\users\admin\documents\visual studio 2012\Projects\tempdata\tempdata\bin\System.Web.Http.WebHost.xml
+c:\users\admin\documents\visual studio 2012\Projects\tempdata\tempdata\bin\System.Web.Mvc.xml
+c:\users\admin\documents\visual studio 2012\Projects\tempdata\tempdata\bin\System.Web.Razor.xml
+c:\users\admin\documents\visual studio 2012\Projects\tempdata\tempdata\bin\System.Web.WebPages.xml
+c:\users\admin\documents\visual studio 2012\Projects\tempdata\tempdata\bin\System.Web.WebPages.Deployment.xml
+c:\users\admin\documents\visual studio 2012\Projects\tempdata\tempdata\bin\System.Web.WebPages.Razor.xml
+c:\users\admin\documents\visual studio 2012\Projects\tempdata\tempdata\obj\Debug\tempdata.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\tempdata\tempdata\obj\Debug\tempdata.dll
+c:\users\admin\documents\visual studio 2012\Projects\tempdata\tempdata\obj\Debug\tempdata.pdb
+E:\CS\0. Samples\Projects\tempdata\tempdata\bin\tempdata.dll
+E:\CS\0. Samples\Projects\tempdata\tempdata\bin\tempdata.pdb
+E:\CS\0. Samples\Projects\tempdata\tempdata\bin\Microsoft.Web.Infrastructure.dll
+E:\CS\0. Samples\Projects\tempdata\tempdata\bin\Newtonsoft.Json.dll
+E:\CS\0. Samples\Projects\tempdata\tempdata\bin\System.Net.Http.Formatting.dll
+E:\CS\0. Samples\Projects\tempdata\tempdata\bin\System.Web.Helpers.dll
+E:\CS\0. Samples\Projects\tempdata\tempdata\bin\System.Web.Http.dll
+E:\CS\0. Samples\Projects\tempdata\tempdata\bin\System.Web.Http.WebHost.dll
+E:\CS\0. Samples\Projects\tempdata\tempdata\bin\System.Web.Mvc.dll
+E:\CS\0. Samples\Projects\tempdata\tempdata\bin\System.Web.Razor.dll
+E:\CS\0. Samples\Projects\tempdata\tempdata\bin\System.Web.WebPages.Deployment.dll
+E:\CS\0. Samples\Projects\tempdata\tempdata\bin\System.Web.WebPages.dll
+E:\CS\0. Samples\Projects\tempdata\tempdata\bin\System.Web.WebPages.Razor.dll
+E:\CS\0. Samples\Projects\tempdata\tempdata\bin\Newtonsoft.Json.xml
+E:\CS\0. Samples\Projects\tempdata\tempdata\bin\System.Net.Http.Formatting.xml
+E:\CS\0. Samples\Projects\tempdata\tempdata\bin\System.Web.Helpers.xml
+E:\CS\0. Samples\Projects\tempdata\tempdata\bin\System.Web.Http.xml
+E:\CS\0. Samples\Projects\tempdata\tempdata\bin\System.Web.Http.WebHost.xml
+E:\CS\0. Samples\Projects\tempdata\tempdata\bin\System.Web.Mvc.xml
+E:\CS\0. Samples\Projects\tempdata\tempdata\bin\System.Web.Razor.xml
+E:\CS\0. Samples\Projects\tempdata\tempdata\bin\System.Web.WebPages.xml
+E:\CS\0. Samples\Projects\tempdata\tempdata\bin\System.Web.WebPages.Deployment.xml
+E:\CS\0. Samples\Projects\tempdata\tempdata\bin\System.Web.WebPages.Razor.xml
+E:\CS\0. Samples\Projects\tempdata\tempdata\obj\Debug\tempdata.csprojResolveAssemblyReference.cache
+E:\CS\0. Samples\Projects\tempdata\tempdata\obj\Debug\tempdata.dll
+E:\CS\0. Samples\Projects\tempdata\tempdata\obj\Debug\tempdata.pdb

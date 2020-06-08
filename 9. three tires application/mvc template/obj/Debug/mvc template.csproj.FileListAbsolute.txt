@@ -1,0 +1,64 @@
+c:\users\admin\documents\visual studio 2013\Projects\mvc template\mvc template\bin\mvc template.dll.config
+c:\users\admin\documents\visual studio 2013\Projects\mvc template\mvc template\bin\mvc template.dll
+c:\users\admin\documents\visual studio 2013\Projects\mvc template\mvc template\bin\mvc template.pdb
+c:\users\admin\documents\visual studio 2013\Projects\mvc template\mvc template\bin\Microsoft.Web.Infrastructure.dll
+c:\users\admin\documents\visual studio 2013\Projects\mvc template\mvc template\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\admin\documents\visual studio 2013\Projects\mvc template\mvc template\bin\Newtonsoft.Json.dll
+c:\users\admin\documents\visual studio 2013\Projects\mvc template\mvc template\bin\System.Net.Http.Formatting.dll
+c:\users\admin\documents\visual studio 2013\Projects\mvc template\mvc template\bin\System.Web.Helpers.dll
+c:\users\admin\documents\visual studio 2013\Projects\mvc template\mvc template\bin\System.Web.Http.dll
+c:\users\admin\documents\visual studio 2013\Projects\mvc template\mvc template\bin\System.Web.Http.WebHost.dll
+c:\users\admin\documents\visual studio 2013\Projects\mvc template\mvc template\bin\System.Web.Mvc.dll
+c:\users\admin\documents\visual studio 2013\Projects\mvc template\mvc template\bin\System.Web.Razor.dll
+c:\users\admin\documents\visual studio 2013\Projects\mvc template\mvc template\bin\System.Web.WebPages.Deployment.dll
+c:\users\admin\documents\visual studio 2013\Projects\mvc template\mvc template\bin\System.Web.WebPages.dll
+c:\users\admin\documents\visual studio 2013\Projects\mvc template\mvc template\bin\System.Web.WebPages.Razor.dll
+c:\users\admin\documents\visual studio 2013\Projects\mvc template\mvc template\bin\Newtonsoft.Json.xml
+c:\users\admin\documents\visual studio 2013\Projects\mvc template\mvc template\bin\System.Net.Http.Formatting.xml
+c:\users\admin\documents\visual studio 2013\Projects\mvc template\mvc template\bin\System.Web.Helpers.xml
+c:\users\admin\documents\visual studio 2013\Projects\mvc template\mvc template\bin\System.Web.Http.xml
+c:\users\admin\documents\visual studio 2013\Projects\mvc template\mvc template\bin\System.Web.Http.WebHost.xml
+c:\users\admin\documents\visual studio 2013\Projects\mvc template\mvc template\bin\System.Web.Mvc.xml
+c:\users\admin\documents\visual studio 2013\Projects\mvc template\mvc template\bin\System.Web.Razor.xml
+c:\users\admin\documents\visual studio 2013\Projects\mvc template\mvc template\bin\System.Web.WebPages.xml
+c:\users\admin\documents\visual studio 2013\Projects\mvc template\mvc template\bin\System.Web.WebPages.Deployment.xml
+c:\users\admin\documents\visual studio 2013\Projects\mvc template\mvc template\bin\System.Web.WebPages.Razor.xml
+c:\users\admin\documents\visual studio 2013\Projects\mvc template\mvc template\obj\Debug\mvc template.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\mvc template\mvc template\obj\Debug\mvc template.dll
+c:\users\admin\documents\visual studio 2013\Projects\mvc template\mvc template\obj\Debug\mvc template.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\mvc template\bin\mvc template.dll.config
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\mvc template\bin\mvc template.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\mvc template\bin\mvc template.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\mvc template\bin\EntityFramework.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\mvc template\bin\EntityFramework.SqlServer.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\mvc template\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\mvc template\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\mvc template\bin\Newtonsoft.Json.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\mvc template\bin\System.Net.Http.Formatting.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\mvc template\bin\System.Web.Helpers.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\mvc template\bin\System.Web.Http.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\mvc template\bin\System.Web.Http.WebHost.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\mvc template\bin\System.Web.Mvc.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\mvc template\bin\System.Web.Razor.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\mvc template\bin\System.Web.WebPages.Deployment.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\mvc template\bin\System.Web.WebPages.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\mvc template\bin\System.Web.WebPages.Razor.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\mvc template\bin\EntityFramework.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\mvc template\bin\EntityFramework.SqlServer.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\mvc template\bin\Newtonsoft.Json.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\mvc template\bin\System.Net.Http.Formatting.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\mvc template\bin\System.Web.Helpers.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\mvc template\bin\System.Web.Http.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\mvc template\bin\System.Web.Http.WebHost.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\mvc template\bin\System.Web.Mvc.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\mvc template\bin\System.Web.Razor.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\mvc template\bin\System.Web.WebPages.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\mvc template\bin\System.Web.WebPages.Deployment.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\mvc template\bin\System.Web.WebPages.Razor.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\mvc template\obj\Debug\mvc template.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\mvc template\obj\Debug\mvc template.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\mvc template\obj\Debug\mvc template.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\mvc template\bin\BusinessLogic.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\mvc template\bin\DataAccess.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\mvc template\bin\BusinessLogic.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\mvc template\bin\DataAccess.pdb

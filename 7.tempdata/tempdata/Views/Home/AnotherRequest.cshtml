@@ -1,0 +1,24 @@
+﻿
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>AnotherRequest</title>
+</head>
+<body>
+    <div>
+        The view data1 is:  @ViewData["view1"] <br/>
+        The temp data1 is:  @TempData["temp1"] <br/>
+        The temp data2 is:  @TempData["temp2"] <br/>
+        
+        <br/>
+        Now after I have read the tempdata <br />
+        The temp data1 is:  @TempData["temp1"]<br/>
+        The temp data2 is:  @TempData["temp2"]
+        
+        <a href="@Url.Action("ThirdRequest")">Go to third request</a>
+
+    </div>
+</body>
+</html>

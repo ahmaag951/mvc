@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script>
+        function anotherRequestByAjax() {
+
+            $.ajax({
+                type: "POST",
+                url: "@Url.Action("AnotherRequestByAjax")",
+                dataType: 'json',
+                crossDomain: true,
+                success: function (data) {
+                    alert('@TempData["tempAjax"]');
+                    window.location.href = data;
+                }
+            });
+
+        }
+    </script>
+</head>
+<body>
+    <div>
+        The temp data1 is read directly:  @TempData["temp1"]
+        <br />
+        The temp data2 is read via peek:  @TempData.Peek("temp2")
+        <br />
+
+        Now after the tempdata is read
+        <br />
+        The temp data1 is read directly:  @TempData["temp1"]
+        <br />
+        The temp data2 is read via peek:  @TempData.Peek("temp2")
+        <br />
+
+        Please note that if you read a tempdata normaly in the same request it will be will you, 
+        but it wont live to the second request
+        <a href="@Url.Action("AnotherRequest")">Go to another request</a>
+        <a onclick="anotherRequestByAjax()" href="#">Go to another request by ajax</a>
+    </div>
+</body>
+</html>
