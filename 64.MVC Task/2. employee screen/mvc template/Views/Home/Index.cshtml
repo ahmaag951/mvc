@@ -1,0 +1,74 @@
+﻿
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <script src="~/scripts/jquery-3.2.0.min.js"></script>
+    <script>
+        // Show Edit
+        function showEdit(id) {
+            jQuery.ajax({
+                type: 'GET',
+                url: '@Url.Action("ShowEdit")',
+                data: { id: id },
+                cache: false,
+                dataType: 'html',
+                success: function (data) {
+                    $('#edit').html(data);
+                }
+            });
+        }
+
+        // Delete
+        function deleteEmp(id) {
+            if (confirm('are you sure you want to delete')) {
+                jQuery.ajax({
+                    type: 'POST',
+                    url: '@Url.Action("Delete")',
+                    data: { id: id },
+                    cache: false,
+                    dataType: 'html',
+                    success: function (data) {
+                        loadList();
+                    }
+                });
+            }
+        }
+
+        // Load List
+        function loadList() {
+            jQuery.ajax({
+                type: 'GET',
+                url: '@Url.Action("GetEmployees")',
+                data: {},
+                cache: false,
+                dataType: "html",
+                success: function (data) {
+                    $("#index").html(data);
+                }
+            });
+        }
+
+        // Clear Update Fields
+        function clearUpdate() {
+            $("fieldset input").not(':submit').val('');
+            $("option:selected").removeAttr('selected');
+        };
+
+    </script>
+</head>
+<body>
+    <!-- Index -->
+    <div id="index" style="float: left;">
+        @Html.Action("GetEmployees")
+    </div>
+    <!-- /Index -->
+    <!-- Edit -->
+    <div id="edit" style="float: right; width: 50%">
+        @Html.Action("ShowEdit")
+    </div>
+    <!-- /Edit -->
+</body>
+</html>

@@ -1,0 +1,26 @@
+c:\users\admin\documents\visual studio 2012\Projects\test selected list\test selected list\bin\test selected list.dll
+c:\users\admin\documents\visual studio 2012\Projects\test selected list\test selected list\bin\test selected list.pdb
+c:\users\admin\documents\visual studio 2012\Projects\test selected list\test selected list\bin\Microsoft.Web.Infrastructure.dll
+c:\users\admin\documents\visual studio 2012\Projects\test selected list\test selected list\bin\Newtonsoft.Json.dll
+c:\users\admin\documents\visual studio 2012\Projects\test selected list\test selected list\bin\System.Net.Http.Formatting.dll
+c:\users\admin\documents\visual studio 2012\Projects\test selected list\test selected list\bin\System.Web.Helpers.dll
+c:\users\admin\documents\visual studio 2012\Projects\test selected list\test selected list\bin\System.Web.Http.dll
+c:\users\admin\documents\visual studio 2012\Projects\test selected list\test selected list\bin\System.Web.Http.WebHost.dll
+c:\users\admin\documents\visual studio 2012\Projects\test selected list\test selected list\bin\System.Web.Mvc.dll
+c:\users\admin\documents\visual studio 2012\Projects\test selected list\test selected list\bin\System.Web.Razor.dll
+c:\users\admin\documents\visual studio 2012\Projects\test selected list\test selected list\bin\System.Web.WebPages.Deployment.dll
+c:\users\admin\documents\visual studio 2012\Projects\test selected list\test selected list\bin\System.Web.WebPages.dll
+c:\users\admin\documents\visual studio 2012\Projects\test selected list\test selected list\bin\System.Web.WebPages.Razor.dll
+c:\users\admin\documents\visual studio 2012\Projects\test selected list\test selected list\bin\Newtonsoft.Json.xml
+c:\users\admin\documents\visual studio 2012\Projects\test selected list\test selected list\bin\System.Net.Http.Formatting.xml
+c:\users\admin\documents\visual studio 2012\Projects\test selected list\test selected list\bin\System.Web.Helpers.xml
+c:\users\admin\documents\visual studio 2012\Projects\test selected list\test selected list\bin\System.Web.Http.xml
+c:\users\admin\documents\visual studio 2012\Projects\test selected list\test selected list\bin\System.Web.Http.WebHost.xml
+c:\users\admin\documents\visual studio 2012\Projects\test selected list\test selected list\bin\System.Web.Mvc.xml
+c:\users\admin\documents\visual studio 2012\Projects\test selected list\test selected list\bin\System.Web.Razor.xml
+c:\users\admin\documents\visual studio 2012\Projects\test selected list\test selected list\bin\System.Web.WebPages.xml
+c:\users\admin\documents\visual studio 2012\Projects\test selected list\test selected list\bin\System.Web.WebPages.Deployment.xml
+c:\users\admin\documents\visual studio 2012\Projects\test selected list\test selected list\bin\System.Web.WebPages.Razor.xml
+c:\users\admin\documents\visual studio 2012\Projects\test selected list\test selected list\obj\Debug\test selected list.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\test selected list\test selected list\obj\Debug\test selected list.dll
+c:\users\admin\documents\visual studio 2012\Projects\test selected list\test selected list\obj\Debug\test selected list.pdb

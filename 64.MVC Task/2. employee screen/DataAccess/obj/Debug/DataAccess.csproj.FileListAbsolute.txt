@@ -1,0 +1,42 @@
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\10. crud mvc\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\10. crud mvc\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\10. crud mvc\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\10. crud mvc\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\10. crud mvc\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\10. crud mvc\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\10. crud mvc\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\10. crud mvc\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\10. crud mvc\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\10. crud mvc\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\admin\Desktop\MVC Task - Ahmed Ezzat\2. employee screen\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\admin\Desktop\MVC Task - Ahmed Ezzat\2. employee screen\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\admin\Desktop\MVC Task - Ahmed Ezzat\2. employee screen\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\admin\Desktop\MVC Task - Ahmed Ezzat\2. employee screen\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\MVC Task - Ahmed Ezzat\2. employee screen\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\MVC Task - Ahmed Ezzat\2. employee screen\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\MVC Task - Ahmed Ezzat\2. employee screen\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\MVC Task - Ahmed Ezzat\2. employee screen\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\MVC Task - Ahmed Ezzat\2. employee screen\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\admin\Desktop\MVC Task - Ahmed Ezzat\2. employee screen\DataAccess\obj\Debug\DataAccess.pdb
+F:\CS\Samples\Backend\MVC\64.MVC Task\2. employee screen\DataAccess\bin\Debug\DataAccess.dll.config
+F:\CS\Samples\Backend\MVC\64.MVC Task\2. employee screen\DataAccess\bin\Debug\DataAccess.dll
+F:\CS\Samples\Backend\MVC\64.MVC Task\2. employee screen\DataAccess\bin\Debug\DataAccess.pdb
+F:\CS\Samples\Backend\MVC\64.MVC Task\2. employee screen\DataAccess\bin\Debug\EntityFramework.dll
+F:\CS\Samples\Backend\MVC\64.MVC Task\2. employee screen\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+F:\CS\Samples\Backend\MVC\64.MVC Task\2. employee screen\DataAccess\bin\Debug\EntityFramework.xml
+F:\CS\Samples\Backend\MVC\64.MVC Task\2. employee screen\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+F:\CS\Samples\Backend\MVC\64.MVC Task\2. employee screen\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+F:\CS\Samples\Backend\MVC\64.MVC Task\2. employee screen\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+F:\CS\Samples\Backend\MVC\64.MVC Task\2. employee screen\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+F:\CS\Samples\Backend\MVC\64.MVC Task\2. employee screen\DataAccess\obj\Debug\DataAccess.dll
+F:\CS\Samples\Backend\MVC\64.MVC Task\2. employee screen\DataAccess\obj\Debug\DataAccess.pdb

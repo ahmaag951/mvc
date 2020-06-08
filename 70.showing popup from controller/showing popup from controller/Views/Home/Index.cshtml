@@ -1,0 +1,96 @@
+﻿
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js" ></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    
+</head>
+<body>
+    <div>
+    </div>
+
+    <script>
+        function isEmpty(value) {
+            return value == '' || value === ''
+                || value == "" || value === ""
+                || value == null || value === null
+                || value == undefined || value === undefined
+                || (typeof value === 'undefined')
+        }
+
+        function setPopup(type, title, body, btnCloseLable) {
+            if (isEmpty(title) == false)
+                $("#PopupMessageTitle").html(title);
+            else
+                $("#PopupMessageTitle").html('Title');
+
+            if (isEmpty(body) == false)
+                $("#PopupMessageBody").html(body);
+            else
+                $("#PopupMessageBody").html('Body');
+
+            if (isEmpty(btnCloseLable) == false)
+                $("#PopupMessageBtnClose").html(btnCloseLable);
+            else
+                $("#PopupMessageBtnClose").html('Close');
+
+            //upd
+            $("#PopupMessageBtnClose").show();
+            //
+            $("#PopupMessageBtnYes").hide();
+            $("#PopupMessageBtnNo").hide();
+
+            if (type === "Success") {
+                $('#PopupMessageIcon').attr('src', '/Content/img/checkmark-128.png');
+            } else if (type === "Error") {
+                $('#PopupMessageIcon').attr('src', '/Content/img/error-128.png');
+            } else if (type === "Alert") {
+                $('#PopupMessageIcon').attr('src', '/Content/img/alert-128.png');
+            }
+
+            $("#ModelPopupMessage").modal('show');
+
+            return false
+        }
+
+        function PopupMessageSuccess(title, body, btnCloseLable) {
+
+
+                if (isEmpty(btnCloseLable) == true)
+                    btnCloseLable = "اغلاق";
+
+                if (isEmpty(title) == true)
+                    title = "رسالة تأكيد";
+
+                if (isEmpty(body) == true)
+                    body = "تمت العملية بنجاح";
+
+    
+
+            return setPopup("Success", title, body, btnCloseLable);
+        }
+    </script>
+
+    @if (Request.IsAjaxRequest())
+    {
+        <script type="text/javascript">
+            @this.RenderPopupMessageResponse()
+        </script>
+    }
+    else
+    {
+        <script type="text/javascript">
+            $(function () {
+                @this.RenderPopupMessageResponse()
+            })
+        </script>
+    }
+
+</body>
+</html>

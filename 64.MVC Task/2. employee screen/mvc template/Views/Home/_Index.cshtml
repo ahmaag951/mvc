@@ -1,0 +1,60 @@
+﻿@model IEnumerable<DataAccess.Emp>
+
+<table>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.FirstName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LastName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Salary)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Image)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ManagerName)
+        </th>
+        <th>Full Name
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.FirstName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LastName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Salary)
+            </td>
+            <td>
+                @*@Html.DisplayFor(modelItem => item.Image)*@
+                
+                @{
+        var imageUrl = "/Images/" + item.Image;
+                }
+                
+                <img src="@imageUrl" alt="User Image" >
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ManagerName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FirstName)
+                @Html.DisplayFor(modelItem => item.LastName)
+            </td>
+            <td>
+                <a href="#" onclick="showEdit('@item.Id')">Edit</a> |
+                <a href="#" onclick="deleteEmp('@item.Id')">Delete</a>
+            </td>
+        </tr>
+    }
+
+</table>

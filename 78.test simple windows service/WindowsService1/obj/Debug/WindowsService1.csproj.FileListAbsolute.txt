@@ -1,0 +1,7 @@
+F:\CS\Samples\Backend\MVC\78.test simple windows service\WindowsService1\bin\Debug\WindowsService1.exe.config
+F:\CS\Samples\Backend\MVC\78.test simple windows service\WindowsService1\bin\Debug\WindowsService1.exe
+F:\CS\Samples\Backend\MVC\78.test simple windows service\WindowsService1\bin\Debug\WindowsService1.pdb
+F:\CS\Samples\Backend\MVC\78.test simple windows service\WindowsService1\obj\Debug\WindowsService1.csprojResolveAssemblyReference.cache
+F:\CS\Samples\Backend\MVC\78.test simple windows service\WindowsService1\obj\Debug\WindowsService1.csproj.CoreCompileInputs.cache
+F:\CS\Samples\Backend\MVC\78.test simple windows service\WindowsService1\obj\Debug\WindowsService1.exe
+F:\CS\Samples\Backend\MVC\78.test simple windows service\WindowsService1\obj\Debug\WindowsService1.pdb

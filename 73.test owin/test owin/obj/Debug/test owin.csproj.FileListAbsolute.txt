@@ -1,0 +1,63 @@
+c:\users\ad\source\repos\test owin\test owin\bin\test owin.dll.config
+c:\users\ad\source\repos\test owin\test owin\bin\test owin.dll
+c:\users\ad\source\repos\test owin\test owin\bin\test owin.pdb
+c:\users\ad\source\repos\test owin\test owin\bin\roslyn\csc.exe
+c:\users\ad\source\repos\test owin\test owin\bin\roslyn\csc.exe.config
+c:\users\ad\source\repos\test owin\test owin\bin\roslyn\csc.rsp
+c:\users\ad\source\repos\test owin\test owin\bin\roslyn\csi.exe
+c:\users\ad\source\repos\test owin\test owin\bin\roslyn\csi.exe.config
+c:\users\ad\source\repos\test owin\test owin\bin\roslyn\csi.rsp
+c:\users\ad\source\repos\test owin\test owin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\ad\source\repos\test owin\test owin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\ad\source\repos\test owin\test owin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\ad\source\repos\test owin\test owin\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\ad\source\repos\test owin\test owin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\ad\source\repos\test owin\test owin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\ad\source\repos\test owin\test owin\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\ad\source\repos\test owin\test owin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\ad\source\repos\test owin\test owin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\ad\source\repos\test owin\test owin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\ad\source\repos\test owin\test owin\bin\roslyn\Microsoft.Win32.Primitives.dll
+c:\users\ad\source\repos\test owin\test owin\bin\roslyn\System.AppContext.dll
+c:\users\ad\source\repos\test owin\test owin\bin\roslyn\System.Collections.Immutable.dll
+c:\users\ad\source\repos\test owin\test owin\bin\roslyn\System.Console.dll
+c:\users\ad\source\repos\test owin\test owin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\users\ad\source\repos\test owin\test owin\bin\roslyn\System.Diagnostics.Process.dll
+c:\users\ad\source\repos\test owin\test owin\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\ad\source\repos\test owin\test owin\bin\roslyn\System.IO.Compression.dll
+c:\users\ad\source\repos\test owin\test owin\bin\roslyn\System.IO.FileSystem.dll
+c:\users\ad\source\repos\test owin\test owin\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+c:\users\ad\source\repos\test owin\test owin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\ad\source\repos\test owin\test owin\bin\roslyn\System.IO.Pipes.dll
+c:\users\ad\source\repos\test owin\test owin\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\ad\source\repos\test owin\test owin\bin\roslyn\System.Security.AccessControl.dll
+c:\users\ad\source\repos\test owin\test owin\bin\roslyn\System.Security.Claims.dll
+c:\users\ad\source\repos\test owin\test owin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\users\ad\source\repos\test owin\test owin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+c:\users\ad\source\repos\test owin\test owin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\users\ad\source\repos\test owin\test owin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\users\ad\source\repos\test owin\test owin\bin\roslyn\System.Security.Principal.Windows.dll
+c:\users\ad\source\repos\test owin\test owin\bin\roslyn\System.Text.Encoding.CodePages.dll
+c:\users\ad\source\repos\test owin\test owin\bin\roslyn\System.Threading.Thread.dll
+c:\users\ad\source\repos\test owin\test owin\bin\roslyn\System.ValueTuple.dll
+c:\users\ad\source\repos\test owin\test owin\bin\roslyn\System.Xml.ReaderWriter.dll
+c:\users\ad\source\repos\test owin\test owin\bin\roslyn\System.Xml.XmlDocument.dll
+c:\users\ad\source\repos\test owin\test owin\bin\roslyn\System.Xml.XPath.dll
+c:\users\ad\source\repos\test owin\test owin\bin\roslyn\System.Xml.XPath.XDocument.dll
+c:\users\ad\source\repos\test owin\test owin\bin\roslyn\vbc.exe
+c:\users\ad\source\repos\test owin\test owin\bin\roslyn\vbc.exe.config
+c:\users\ad\source\repos\test owin\test owin\bin\roslyn\vbc.rsp
+c:\users\ad\source\repos\test owin\test owin\bin\roslyn\VBCSCompiler.exe
+c:\users\ad\source\repos\test owin\test owin\bin\roslyn\VBCSCompiler.exe.config
+c:\users\ad\source\repos\test owin\test owin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\ad\source\repos\test owin\test owin\bin\Microsoft.Owin.dll
+c:\users\ad\source\repos\test owin\test owin\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\ad\source\repos\test owin\test owin\bin\Owin.dll
+c:\users\ad\source\repos\test owin\test owin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\ad\source\repos\test owin\test owin\bin\Microsoft.Owin.xml
+c:\users\ad\source\repos\test owin\test owin\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\ad\source\repos\test owin\test owin\obj\Debug\test owin.csprojResolveAssemblyReference.cache
+c:\users\ad\source\repos\test owin\test owin\obj\Debug\test owin.csproj.CoreCompileInputs.cache
+c:\users\ad\source\repos\test owin\test owin\obj\Debug\test owin.csproj.CopyComplete
+c:\users\ad\source\repos\test owin\test owin\obj\Debug\test owin.dll
+c:\users\ad\source\repos\test owin\test owin\obj\Debug\test owin.pdb

@@ -1,0 +1,40 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+<head>
+    <title>Upload Image</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+</head>
+<h2>MVC Image Upload</h2>
+
+@*<input type="file" id="uploadEditorImage" />*@
+<input type="file" id="UploadImg" /> <br /><br />
+New File Name: <input type="text" id="txtImg" size="50" /> <br /><br />
+<img id="imgPreview" height="200" width="200"/>
+
+<script>
+    $("#UploadImg").change(function () {
+        var data = new FormData();
+        var files = $("#UploadImg").get(0).files;
+        if (files.length > 0) {
+            data.append("MyImages", files[0]);
+        }
+        
+        $.ajax({
+            url: "/UploadImage/UploadFile",
+            type: "POST",
+            processData: false,
+            contentType: false,
+            data: data,
+            success: function (response) {
+                //code after success
+                $("#txtImg").val(response);
+                $("#imgPreview").attr('src', '/Upload/' + response);
+            },
+            error: function (er) {
+                alert(er);
+            }
+
+        });
+    });
+</script>

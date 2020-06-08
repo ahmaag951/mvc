@@ -1,0 +1,26 @@
+﻿@model List<Post_List.Controllers.Gift>
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        <form action="/Home/Index" method="POST">
+            @for (int i = 0; i < Model.Count(); i++)
+            {
+                @Html.Display("Gift Name")
+                <input name="gifts[@i].Name" value="@Model[i].Name"/>
+                
+                @Html.Display("Gift Price")
+                <input name="gifts[@i].Price" value="@Model[i].Price"/>
+
+            }
+            <input type="submit" value="save" />
+        </form>
+    </div>
+</body>
+</html>

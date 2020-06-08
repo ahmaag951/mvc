@@ -1,0 +1,21 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>_ChangeImage</title>
+</head>
+<body>
+    <div>
+        @using (Html.BeginForm("Upload", "Home", FormMethod.Post, new {  enctype="multipart/form-data" }))
+        {
+            <input type="file" name="file"  placeholder="click to upload image"/>
+            <input type="submit" value="Upload" />
+        }
+    </div>
+</body>
+</html>

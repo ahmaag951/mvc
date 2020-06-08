@@ -1,0 +1,65 @@
+C:\Users\admin\Documents\Visual Studio 2013\Projects\multi language\multi language\bin\multi language.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\multi language\multi language\bin\multi language.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\multi language\multi language\bin\ar\multi language.resources.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\multi language\multi language\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\multi language\multi language\bin\Newtonsoft.Json.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\multi language\multi language\bin\System.Net.Http.Formatting.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\multi language\multi language\bin\System.Web.Helpers.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\multi language\multi language\bin\System.Web.Http.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\multi language\multi language\bin\System.Web.Http.WebHost.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\multi language\multi language\bin\System.Web.Mvc.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\multi language\multi language\bin\System.Web.Razor.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\multi language\multi language\bin\System.Web.WebPages.Deployment.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\multi language\multi language\bin\System.Web.WebPages.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\multi language\multi language\bin\System.Web.WebPages.Razor.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\multi language\multi language\bin\Newtonsoft.Json.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\multi language\multi language\bin\System.Net.Http.Formatting.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\multi language\multi language\bin\System.Web.Helpers.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\multi language\multi language\bin\System.Web.Http.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\multi language\multi language\bin\System.Web.Http.WebHost.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\multi language\multi language\bin\System.Web.Mvc.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\multi language\multi language\bin\System.Web.Razor.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\multi language\multi language\bin\System.Web.WebPages.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\multi language\multi language\bin\System.Web.WebPages.Deployment.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\multi language\multi language\bin\System.Web.WebPages.Razor.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\multi language\multi language\obj\Debug\multi language.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\multi language\multi language\obj\Debug\multi_language.Resources.HomeText.resources
+C:\Users\admin\Documents\Visual Studio 2013\Projects\multi language\multi language\obj\Debug\multi_language.Resources.HomeText.ar.resources
+C:\Users\admin\Documents\Visual Studio 2013\Projects\multi language\multi language\obj\Debug\multi language.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\multi language\multi language\obj\Debug\ar\multi language.resources.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\multi language\multi language\obj\Debug\multi language.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\multi language\multi language\obj\Debug\multi language.pdb
+F:\CS\Samples\Backend\MVC\63.multi language\multi language\bin\multi language.dll.config
+F:\CS\Samples\Backend\MVC\63.multi language\multi language\bin\multi language.dll
+F:\CS\Samples\Backend\MVC\63.multi language\multi language\bin\multi language.pdb
+F:\CS\Samples\Backend\MVC\63.multi language\multi language\bin\ar\multi language.resources.dll
+F:\CS\Samples\Backend\MVC\63.multi language\multi language\bin\Microsoft.Web.Infrastructure.dll
+F:\CS\Samples\Backend\MVC\63.multi language\multi language\bin\Newtonsoft.Json.dll
+F:\CS\Samples\Backend\MVC\63.multi language\multi language\bin\System.Net.Http.Formatting.dll
+F:\CS\Samples\Backend\MVC\63.multi language\multi language\bin\System.Web.Helpers.dll
+F:\CS\Samples\Backend\MVC\63.multi language\multi language\bin\System.Web.Http.dll
+F:\CS\Samples\Backend\MVC\63.multi language\multi language\bin\System.Web.Http.WebHost.dll
+F:\CS\Samples\Backend\MVC\63.multi language\multi language\bin\System.Web.Mvc.dll
+F:\CS\Samples\Backend\MVC\63.multi language\multi language\bin\System.Web.Razor.dll
+F:\CS\Samples\Backend\MVC\63.multi language\multi language\bin\System.Web.WebPages.Deployment.dll
+F:\CS\Samples\Backend\MVC\63.multi language\multi language\bin\System.Web.WebPages.dll
+F:\CS\Samples\Backend\MVC\63.multi language\multi language\bin\System.Web.WebPages.Razor.dll
+F:\CS\Samples\Backend\MVC\63.multi language\multi language\bin\Newtonsoft.Json.xml
+F:\CS\Samples\Backend\MVC\63.multi language\multi language\bin\System.Net.Http.Formatting.xml
+F:\CS\Samples\Backend\MVC\63.multi language\multi language\bin\System.Web.Helpers.xml
+F:\CS\Samples\Backend\MVC\63.multi language\multi language\bin\System.Web.Http.xml
+F:\CS\Samples\Backend\MVC\63.multi language\multi language\bin\System.Web.Http.WebHost.xml
+F:\CS\Samples\Backend\MVC\63.multi language\multi language\bin\System.Web.Mvc.xml
+F:\CS\Samples\Backend\MVC\63.multi language\multi language\bin\System.Web.Razor.xml
+F:\CS\Samples\Backend\MVC\63.multi language\multi language\bin\System.Web.WebPages.xml
+F:\CS\Samples\Backend\MVC\63.multi language\multi language\bin\System.Web.WebPages.Deployment.xml
+F:\CS\Samples\Backend\MVC\63.multi language\multi language\bin\System.Web.WebPages.Razor.xml
+F:\CS\Samples\Backend\MVC\63.multi language\multi language\obj\Debug\multi language.csprojResolveAssemblyReference.cache
+F:\CS\Samples\Backend\MVC\63.multi language\multi language\obj\Debug\multi_language.Resources.HomeText.resources
+F:\CS\Samples\Backend\MVC\63.multi language\multi language\obj\Debug\multi_language.Resources.HomeText.ar.resources
+F:\CS\Samples\Backend\MVC\63.multi language\multi language\obj\Debug\multi language.csproj.GenerateResource.cache
+F:\CS\Samples\Backend\MVC\63.multi language\multi language\obj\Debug\multi language.csproj.CoreCompileInputs.cache
+F:\CS\Samples\Backend\MVC\63.multi language\multi language\obj\Debug\ar\multi language.resources.dll
+F:\CS\Samples\Backend\MVC\63.multi language\multi language\obj\Debug\multi language.csproj.CopyComplete
+F:\CS\Samples\Backend\MVC\63.multi language\multi language\obj\Debug\multi language.dll
+F:\CS\Samples\Backend\MVC\63.multi language\multi language\obj\Debug\multi language.pdb

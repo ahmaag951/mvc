@@ -1,0 +1,21 @@
+﻿@using multi_language.Resources
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+    <body>
+        <div>
+            @Html.ActionLink("Arabic", "ChangeLanguage", "Home", new { language = "ar"}, null) <br/>
+            @Html.ActionLink("English", "ChangeLanguage", "Home", new { language = "en"}, null)
+        </div>
+        <div>
+            @HomeText.Cat <br/>
+            @HomeText.Rat <br/>
+            @HomeText.Hat <br/>
+
+        </div>
+    </body>
+</html>

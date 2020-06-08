@@ -1,0 +1,49 @@
+﻿@using System.Web.UI.WebControls
+@using test_selected_list.Controllers
+@model test_selected_list.Models.MyModel
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+<!-- Html.DropDownList(string name, IEnumerable<SelectLestItem> selectList,
+     string optionLabel, object htmlAttributes) -->
+
+<!-- Important!!! You can get the list from any where in the world!!!! -->
+
+<!-- DropDownList('The dropdownlist html id, list, selected val, htmlattributes ') -->
+
+@{
+SelectList list = ViewBag.List;
+}
+
+<form method="POST" >
+    
+    @Html.TextBox("MyValue")
+    @Html.TextBox("MyNestedValue.Name")
+    this is just from a viewbag
+    @Html.DropDownList("MyValueList")
+    
+
+@Html.DropDownList("htmlId", list, "--select one--")
+@Html.DropDownList("htmlId", (SelectList)ViewBag.List, "--select one--")
+select list item
+@Html.DropDownList("htmlId", (List<SelectListItem>)ViewBag.ListItems, "--select one--")
+using for
+<!-- please note that the only diffrence in the world between dropdownList and dropdownListFor is the html id. 
+    with the for will get the id from model and without for you will write the html id by your hand -->
+@Html.DropDownListFor(m=>m.UserName, (SelectList)ViewBag.List, "--select one--")
+    
+
+<!-- Using enum, just create enum and use it -->
+
+@Html.DropDownList("htmlId", new SelectList(Enum.GetValues(typeof(Gender))), "--select one--")
+    <!-- Get the list from repository -->
+    @Html.DropDownList("UserId", new SelectList(new BusinessLayer().GetList() , "Id", "Name"))
+
+        
+
+    <input type="submit" value="save"/>
+
+</form>

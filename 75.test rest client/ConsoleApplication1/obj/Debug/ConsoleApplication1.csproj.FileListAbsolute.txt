@@ -1,0 +1,22 @@
+c:\Users\ad\Documents\Visual Studio 2013\Projects\test rest client\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\Users\ad\Documents\Visual Studio 2013\Projects\test rest client\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\Users\ad\Documents\Visual Studio 2013\Projects\test rest client\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\Users\ad\Documents\Visual Studio 2013\Projects\test rest client\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+c:\Users\ad\Documents\Visual Studio 2013\Projects\test rest client\ConsoleApplication1\bin\Debug\RestClient.NET.dll
+c:\Users\ad\Documents\Visual Studio 2013\Projects\test rest client\ConsoleApplication1\bin\Debug\Newtonsoft.Json.pdb
+c:\Users\ad\Documents\Visual Studio 2013\Projects\test rest client\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+c:\Users\ad\Documents\Visual Studio 2013\Projects\test rest client\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\Users\ad\Documents\Visual Studio 2013\Projects\test rest client\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\Users\ad\Documents\Visual Studio 2013\Projects\test rest client\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+F:\CS\Samples\Backend\MVC\test rest client\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+F:\CS\Samples\Backend\MVC\test rest client\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+F:\CS\Samples\Backend\MVC\test rest client\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+F:\CS\Samples\Backend\MVC\test rest client\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+F:\CS\Samples\Backend\MVC\test rest client\ConsoleApplication1\bin\Debug\RestClient.NET.dll
+F:\CS\Samples\Backend\MVC\test rest client\ConsoleApplication1\bin\Debug\Newtonsoft.Json.pdb
+F:\CS\Samples\Backend\MVC\test rest client\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+F:\CS\Samples\Backend\MVC\test rest client\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+F:\CS\Samples\Backend\MVC\test rest client\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+F:\CS\Samples\Backend\MVC\test rest client\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CopyComplete
+F:\CS\Samples\Backend\MVC\test rest client\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+F:\CS\Samples\Backend\MVC\test rest client\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

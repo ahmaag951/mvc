@@ -1,0 +1,51 @@
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\9. crud mvc\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\10. crud mvc\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\10. crud mvc\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\10. crud mvc\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\10. crud mvc\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\10. crud mvc\BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\10. crud mvc\BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\10. crud mvc\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\10. crud mvc\BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\10. crud mvc\BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\10. crud mvc\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\10. crud mvc\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SAMPLES\MVC\10. crud mvc\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\admin\Desktop\MVC Task - Ahmed Ezzat\2. employee screen\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+C:\Users\admin\Desktop\MVC Task - Ahmed Ezzat\2. employee screen\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\admin\Desktop\MVC Task - Ahmed Ezzat\2. employee screen\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\admin\Desktop\MVC Task - Ahmed Ezzat\2. employee screen\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\admin\Desktop\MVC Task - Ahmed Ezzat\2. employee screen\BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\MVC Task - Ahmed Ezzat\2. employee screen\BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\MVC Task - Ahmed Ezzat\2. employee screen\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\admin\Desktop\MVC Task - Ahmed Ezzat\2. employee screen\BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\MVC Task - Ahmed Ezzat\2. employee screen\BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\MVC Task - Ahmed Ezzat\2. employee screen\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\MVC Task - Ahmed Ezzat\2. employee screen\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\admin\Desktop\MVC Task - Ahmed Ezzat\2. employee screen\BusinessLogic\obj\Debug\BusinessLogic.pdb
+F:\CS\Samples\Backend\MVC\64.MVC Task\2. employee screen\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+F:\CS\Samples\Backend\MVC\64.MVC Task\2. employee screen\BusinessLogic\bin\Debug\BusinessLogic.dll
+F:\CS\Samples\Backend\MVC\64.MVC Task\2. employee screen\BusinessLogic\bin\Debug\BusinessLogic.pdb
+F:\CS\Samples\Backend\MVC\64.MVC Task\2. employee screen\BusinessLogic\bin\Debug\DataAccess.dll
+F:\CS\Samples\Backend\MVC\64.MVC Task\2. employee screen\BusinessLogic\bin\Debug\EntityFramework.dll
+F:\CS\Samples\Backend\MVC\64.MVC Task\2. employee screen\BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+F:\CS\Samples\Backend\MVC\64.MVC Task\2. employee screen\BusinessLogic\bin\Debug\DataAccess.pdb
+F:\CS\Samples\Backend\MVC\64.MVC Task\2. employee screen\BusinessLogic\bin\Debug\DataAccess.dll.config
+F:\CS\Samples\Backend\MVC\64.MVC Task\2. employee screen\BusinessLogic\bin\Debug\EntityFramework.xml
+F:\CS\Samples\Backend\MVC\64.MVC Task\2. employee screen\BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+F:\CS\Samples\Backend\MVC\64.MVC Task\2. employee screen\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+F:\CS\Samples\Backend\MVC\64.MVC Task\2. employee screen\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+F:\CS\Samples\Backend\MVC\64.MVC Task\2. employee screen\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+F:\CS\Samples\Backend\MVC\64.MVC Task\2. employee screen\BusinessLogic\obj\Debug\BusinessLogic.dll
+F:\CS\Samples\Backend\MVC\64.MVC Task\2. employee screen\BusinessLogic\obj\Debug\BusinessLogic.pdb

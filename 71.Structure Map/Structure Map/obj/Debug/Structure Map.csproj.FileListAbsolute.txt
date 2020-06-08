@@ -1,0 +1,57 @@
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Structure Map\Structure Map\bin\Structure Map.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Structure Map\Structure Map\bin\Structure Map.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Structure Map\Structure Map\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Structure Map\Structure Map\bin\Newtonsoft.Json.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Structure Map\Structure Map\bin\System.Net.Http.Formatting.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Structure Map\Structure Map\bin\System.Web.Helpers.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Structure Map\Structure Map\bin\System.Web.Http.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Structure Map\Structure Map\bin\System.Web.Http.WebHost.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Structure Map\Structure Map\bin\System.Web.Mvc.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Structure Map\Structure Map\bin\System.Web.Razor.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Structure Map\Structure Map\bin\System.Web.WebPages.Deployment.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Structure Map\Structure Map\bin\System.Web.WebPages.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Structure Map\Structure Map\bin\System.Web.WebPages.Razor.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Structure Map\Structure Map\bin\Newtonsoft.Json.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Structure Map\Structure Map\bin\System.Net.Http.Formatting.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Structure Map\Structure Map\bin\System.Web.Helpers.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Structure Map\Structure Map\bin\System.Web.Http.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Structure Map\Structure Map\bin\System.Web.Http.WebHost.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Structure Map\Structure Map\bin\System.Web.Mvc.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Structure Map\Structure Map\bin\System.Web.Razor.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Structure Map\Structure Map\bin\System.Web.WebPages.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Structure Map\Structure Map\bin\System.Web.WebPages.Deployment.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Structure Map\Structure Map\bin\System.Web.WebPages.Razor.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Structure Map\Structure Map\obj\Debug\Structure Map.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Structure Map\Structure Map\obj\Debug\Structure Map.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Structure Map\Structure Map\obj\Debug\Structure Map.pdb
+E:\CS\0. Samples\C#\Structure Map\Structure Map\bin\Structure Map.dll
+E:\CS\0. Samples\C#\Structure Map\Structure Map\bin\Structure Map.pdb
+E:\CS\0. Samples\C#\Structure Map\Structure Map\bin\Microsoft.Web.Infrastructure.dll
+E:\CS\0. Samples\C#\Structure Map\Structure Map\bin\Newtonsoft.Json.dll
+E:\CS\0. Samples\C#\Structure Map\Structure Map\bin\StructureMap.dll
+E:\CS\0. Samples\C#\Structure Map\Structure Map\bin\StructureMap.Net4.dll
+E:\CS\0. Samples\C#\Structure Map\Structure Map\bin\System.Net.Http.Formatting.dll
+E:\CS\0. Samples\C#\Structure Map\Structure Map\bin\System.Web.Helpers.dll
+E:\CS\0. Samples\C#\Structure Map\Structure Map\bin\System.Web.Http.dll
+E:\CS\0. Samples\C#\Structure Map\Structure Map\bin\System.Web.Http.WebHost.dll
+E:\CS\0. Samples\C#\Structure Map\Structure Map\bin\System.Web.Mvc.dll
+E:\CS\0. Samples\C#\Structure Map\Structure Map\bin\System.Web.Razor.dll
+E:\CS\0. Samples\C#\Structure Map\Structure Map\bin\System.Web.WebPages.Deployment.dll
+E:\CS\0. Samples\C#\Structure Map\Structure Map\bin\System.Web.WebPages.dll
+E:\CS\0. Samples\C#\Structure Map\Structure Map\bin\System.Web.WebPages.Razor.dll
+E:\CS\0. Samples\C#\Structure Map\Structure Map\bin\StructureMap.pdb
+E:\CS\0. Samples\C#\Structure Map\Structure Map\bin\StructureMap.xml
+E:\CS\0. Samples\C#\Structure Map\Structure Map\bin\StructureMap.Net4.pdb
+E:\CS\0. Samples\C#\Structure Map\Structure Map\bin\Newtonsoft.Json.xml
+E:\CS\0. Samples\C#\Structure Map\Structure Map\bin\System.Net.Http.Formatting.xml
+E:\CS\0. Samples\C#\Structure Map\Structure Map\bin\System.Web.Helpers.xml
+E:\CS\0. Samples\C#\Structure Map\Structure Map\bin\System.Web.Http.xml
+E:\CS\0. Samples\C#\Structure Map\Structure Map\bin\System.Web.Http.WebHost.xml
+E:\CS\0. Samples\C#\Structure Map\Structure Map\bin\System.Web.Mvc.xml
+E:\CS\0. Samples\C#\Structure Map\Structure Map\bin\System.Web.Razor.xml
+E:\CS\0. Samples\C#\Structure Map\Structure Map\bin\System.Web.WebPages.xml
+E:\CS\0. Samples\C#\Structure Map\Structure Map\bin\System.Web.WebPages.Deployment.xml
+E:\CS\0. Samples\C#\Structure Map\Structure Map\bin\System.Web.WebPages.Razor.xml
+E:\CS\0. Samples\C#\Structure Map\Structure Map\obj\Debug\Structure Map.csprojResolveAssemblyReference.cache
+E:\CS\0. Samples\C#\Structure Map\Structure Map\obj\Debug\Structure Map.dll
+E:\CS\0. Samples\C#\Structure Map\Structure Map\obj\Debug\Structure Map.pdb

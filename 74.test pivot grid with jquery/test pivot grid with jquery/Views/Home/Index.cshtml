@@ -1,0 +1,103 @@
+﻿@{ 
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <base href="https://demos.telerik.com/kendo-ui/pivotgrid/remote-flat-data-binding">
+    <style>
+        html {
+            font-size: 14px;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+    </style>
+    <title>PivotGrid - dynamic model building (remote binding)</title>
+
+
+    <link rel="stylesheet" href="https://kendo.cdn.telerik.com/2018.3.911/styles/kendo.common.min.css">
+    <link rel="stylesheet" href="https://kendo.cdn.telerik.com/2018.3.911/styles/kendo.rtl.min.css">
+    <link rel="stylesheet" href="https://kendo.cdn.telerik.com/2018.3.911/styles/kendo.default.min.css">
+    <link rel="stylesheet" href="https://kendo.cdn.telerik.com/2018.3.911/styles/kendo.mobile.all.min.css">
+    <script src="https://code.jquery.com/jquery-1.12.3.min.js"></script>
+    <script src="https://kendo.cdn.telerik.com/2018.3.911/js/angular.min.js"></script>
+    <script src="https://kendo.cdn.telerik.com/2018.3.911/js/jszip.min.js"></script>
+    <script src="https://kendo.cdn.telerik.com/2018.3.911/js/kendo.all.min.js"></script>
+</head>
+<body>
+    <div id="example">
+        <div id="configurator" class="hidden-on-narrow"></div>
+        <div id="pivotgrid" class="hidden-on-narrow"></div>
+
+        <div class="responsive-message"></div>
+
+        <script>
+        $(document).ready(function () {
+          var buildDataSource = function(data) {
+              var first = data[0];
+              console.log(first);
+            if (!first) {
+              return;
+            }
+
+            var dimensions = [];
+            var measures = {};
+
+            for (var field in first) {
+
+              if (field.indexOf("_") === -1) {
+                dimensions[field] = { caption: field };
+              }
+            }
+
+            if (dimensions["QuestionID"]) {
+                measures["Questions Count"] = { field: "QuestionID", aggregate: "count" };
+            }
+
+            return new kendo.data.PivotDataSource({
+              data: data,
+              schema: {
+                cube: {
+                  dimensions: dimensions,
+                  measures: measures
+                }
+              }
+            });
+          };
+
+          var pivotgrid = $("#pivotgrid").kendoPivotGrid({
+            filterable: true,
+            columnWidth: 120,
+            height: 570
+          }).data("kendoPivotGrid");
+
+          var configurator = $("#configurator").kendoPivotConfigurator({
+            dataSource: pivotgrid.dataSource,
+            filterable: true,
+            height: 570
+          }).data("kendoPivotConfigurator");
+
+            $.getJSON("http://localhost:50217/home/GetJsonDataCustomers", function (data) {
+                
+            var source = buildDataSource(data);
+
+            pivotgrid.setDataSource(source);
+            configurator.setDataSource(source);
+          });
+        });
+        </script>
+        <style>
+            #pivotgrid {
+                width: 70%;
+            }
+
+            .hidden-on-narrow {
+                display: inline-block;
+                vertical-align: top;
+            }
+        </style>
+    </div>
+
+
+</body>
+</html>
