@@ -1,0 +1,3 @@
+﻿function longFunctionName() {
+    alert('hello');
+}

@@ -1,0 +1,135 @@
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\test js change photos\test js change photos\bin\test js change photos.dll
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\test js change photos\test js change photos\bin\test js change photos.pdb
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\test js change photos\test js change photos\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\test js change photos\test js change photos\bin\Newtonsoft.Json.dll
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\test js change photos\test js change photos\bin\System.Net.Http.Formatting.dll
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\test js change photos\test js change photos\bin\System.Web.Helpers.dll
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\test js change photos\test js change photos\bin\System.Web.Http.dll
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\test js change photos\test js change photos\bin\System.Web.Http.WebHost.dll
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\test js change photos\test js change photos\bin\System.Web.Mvc.dll
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\test js change photos\test js change photos\bin\System.Web.Razor.dll
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\test js change photos\test js change photos\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\test js change photos\test js change photos\bin\System.Web.WebPages.dll
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\test js change photos\test js change photos\bin\System.Web.WebPages.Razor.dll
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\test js change photos\test js change photos\bin\Newtonsoft.Json.xml
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\test js change photos\test js change photos\bin\System.Net.Http.Formatting.xml
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\test js change photos\test js change photos\bin\System.Web.Helpers.xml
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\test js change photos\test js change photos\bin\System.Web.Http.xml
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\test js change photos\test js change photos\bin\System.Web.Http.WebHost.xml
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\test js change photos\test js change photos\bin\System.Web.Mvc.xml
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\test js change photos\test js change photos\bin\System.Web.Razor.xml
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\test js change photos\test js change photos\bin\System.Web.WebPages.xml
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\test js change photos\test js change photos\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\test js change photos\test js change photos\bin\System.Web.WebPages.Razor.xml
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\test js change photos\test js change photos\obj\Debug\test js change photos.csprojResolveAssemblyReference.cache
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\test js change photos\test js change photos\obj\Debug\test js change photos.dll
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2012\Projects\test js change photos\test js change photos\obj\Debug\test js change photos.pdb
+E:\backup\onetimesat\vs projects\Projects\test js change photos\test js change photos\bin\test js change photos.dll.config
+E:\backup\onetimesat\vs projects\Projects\test js change photos\test js change photos\bin\test js change photos.dll
+E:\backup\onetimesat\vs projects\Projects\test js change photos\test js change photos\bin\test js change photos.pdb
+E:\backup\onetimesat\vs projects\Projects\test js change photos\test js change photos\bin\Microsoft.Web.Infrastructure.dll
+E:\backup\onetimesat\vs projects\Projects\test js change photos\test js change photos\bin\Newtonsoft.Json.dll
+E:\backup\onetimesat\vs projects\Projects\test js change photos\test js change photos\bin\System.Net.Http.Formatting.dll
+E:\backup\onetimesat\vs projects\Projects\test js change photos\test js change photos\bin\System.Web.Helpers.dll
+E:\backup\onetimesat\vs projects\Projects\test js change photos\test js change photos\bin\System.Web.Http.dll
+E:\backup\onetimesat\vs projects\Projects\test js change photos\test js change photos\bin\System.Web.Http.WebHost.dll
+E:\backup\onetimesat\vs projects\Projects\test js change photos\test js change photos\bin\System.Web.Mvc.dll
+E:\backup\onetimesat\vs projects\Projects\test js change photos\test js change photos\bin\System.Web.Razor.dll
+E:\backup\onetimesat\vs projects\Projects\test js change photos\test js change photos\bin\System.Web.WebPages.Deployment.dll
+E:\backup\onetimesat\vs projects\Projects\test js change photos\test js change photos\bin\System.Web.WebPages.dll
+E:\backup\onetimesat\vs projects\Projects\test js change photos\test js change photos\bin\System.Web.WebPages.Razor.dll
+E:\backup\onetimesat\vs projects\Projects\test js change photos\test js change photos\bin\Newtonsoft.Json.xml
+E:\backup\onetimesat\vs projects\Projects\test js change photos\test js change photos\bin\System.Net.Http.Formatting.xml
+E:\backup\onetimesat\vs projects\Projects\test js change photos\test js change photos\bin\System.Web.Helpers.xml
+E:\backup\onetimesat\vs projects\Projects\test js change photos\test js change photos\bin\System.Web.Http.xml
+E:\backup\onetimesat\vs projects\Projects\test js change photos\test js change photos\bin\System.Web.Http.WebHost.xml
+E:\backup\onetimesat\vs projects\Projects\test js change photos\test js change photos\bin\System.Web.Mvc.xml
+E:\backup\onetimesat\vs projects\Projects\test js change photos\test js change photos\bin\System.Web.Razor.xml
+E:\backup\onetimesat\vs projects\Projects\test js change photos\test js change photos\bin\System.Web.WebPages.xml
+E:\backup\onetimesat\vs projects\Projects\test js change photos\test js change photos\bin\System.Web.WebPages.Deployment.xml
+E:\backup\onetimesat\vs projects\Projects\test js change photos\test js change photos\bin\System.Web.WebPages.Razor.xml
+E:\backup\onetimesat\vs projects\Projects\test js change photos\test js change photos\obj\Debug\test js change photos.csprojResolveAssemblyReference.cache
+E:\backup\onetimesat\vs projects\Projects\test js change photos\test js change photos\obj\Debug\test js change photos.dll
+E:\backup\onetimesat\vs projects\Projects\test js change photos\test js change photos\obj\Debug\test js change photos.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\test js change photos\test js change photos\bin\test js change photos.dll.config
+C:\Users\admin\Documents\Visual Studio 2012\Projects\test js change photos\test js change photos\bin\test js change photos.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\test js change photos\test js change photos\bin\test js change photos.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\test js change photos\test js change photos\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\test js change photos\test js change photos\bin\Newtonsoft.Json.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\test js change photos\test js change photos\bin\System.Net.Http.Formatting.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\test js change photos\test js change photos\bin\System.Web.Helpers.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\test js change photos\test js change photos\bin\System.Web.Http.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\test js change photos\test js change photos\bin\System.Web.Http.WebHost.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\test js change photos\test js change photos\bin\System.Web.Mvc.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\test js change photos\test js change photos\bin\System.Web.Razor.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\test js change photos\test js change photos\bin\System.Web.WebPages.Deployment.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\test js change photos\test js change photos\bin\System.Web.WebPages.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\test js change photos\test js change photos\bin\System.Web.WebPages.Razor.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\test js change photos\test js change photos\bin\Newtonsoft.Json.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\test js change photos\test js change photos\bin\System.Net.Http.Formatting.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\test js change photos\test js change photos\bin\System.Web.Helpers.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\test js change photos\test js change photos\bin\System.Web.Http.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\test js change photos\test js change photos\bin\System.Web.Http.WebHost.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\test js change photos\test js change photos\bin\System.Web.Mvc.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\test js change photos\test js change photos\bin\System.Web.Razor.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\test js change photos\test js change photos\bin\System.Web.WebPages.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\test js change photos\test js change photos\bin\System.Web.WebPages.Deployment.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\test js change photos\test js change photos\bin\System.Web.WebPages.Razor.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\test js change photos\test js change photos\obj\Debug\test js change photos.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\test js change photos\test js change photos\obj\Debug\test js change photos.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\test js change photos\test js change photos\obj\Debug\test js change photos.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\SAMPLES\JAVASCRIPT\java script change images on click\test js change photos\bin\test js change photos.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\SAMPLES\JAVASCRIPT\java script change images on click\test js change photos\bin\test js change photos.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\SAMPLES\JAVASCRIPT\java script change images on click\test js change photos\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\SAMPLES\JAVASCRIPT\java script change images on click\test js change photos\bin\Newtonsoft.Json.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\SAMPLES\JAVASCRIPT\java script change images on click\test js change photos\bin\System.Net.Http.Formatting.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\SAMPLES\JAVASCRIPT\java script change images on click\test js change photos\bin\System.Web.Helpers.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\SAMPLES\JAVASCRIPT\java script change images on click\test js change photos\bin\System.Web.Http.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\SAMPLES\JAVASCRIPT\java script change images on click\test js change photos\bin\System.Web.Http.WebHost.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\SAMPLES\JAVASCRIPT\java script change images on click\test js change photos\bin\System.Web.Mvc.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\SAMPLES\JAVASCRIPT\java script change images on click\test js change photos\bin\System.Web.Razor.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\SAMPLES\JAVASCRIPT\java script change images on click\test js change photos\bin\System.Web.WebPages.Deployment.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\SAMPLES\JAVASCRIPT\java script change images on click\test js change photos\bin\System.Web.WebPages.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\SAMPLES\JAVASCRIPT\java script change images on click\test js change photos\bin\System.Web.WebPages.Razor.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\SAMPLES\JAVASCRIPT\java script change images on click\test js change photos\bin\Newtonsoft.Json.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\SAMPLES\JAVASCRIPT\java script change images on click\test js change photos\bin\System.Net.Http.Formatting.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\SAMPLES\JAVASCRIPT\java script change images on click\test js change photos\bin\System.Web.Helpers.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\SAMPLES\JAVASCRIPT\java script change images on click\test js change photos\bin\System.Web.Http.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\SAMPLES\JAVASCRIPT\java script change images on click\test js change photos\bin\System.Web.Http.WebHost.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\SAMPLES\JAVASCRIPT\java script change images on click\test js change photos\bin\System.Web.Mvc.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\SAMPLES\JAVASCRIPT\java script change images on click\test js change photos\bin\System.Web.Razor.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\SAMPLES\JAVASCRIPT\java script change images on click\test js change photos\bin\System.Web.WebPages.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\SAMPLES\JAVASCRIPT\java script change images on click\test js change photos\bin\System.Web.WebPages.Deployment.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\SAMPLES\JAVASCRIPT\java script change images on click\test js change photos\bin\System.Web.WebPages.Razor.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\SAMPLES\JAVASCRIPT\java script change images on click\test js change photos\obj\Debug\test js change photos.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\SAMPLES\JAVASCRIPT\java script change images on click\test js change photos\obj\Debug\test js change photos.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\SAMPLES\JAVASCRIPT\java script change images on click\test js change photos\obj\Debug\test js change photos.pdb
+D:\CS\0. uncompleted effort\JAVASCRIPT\java script change images on click\test js change photos\bin\test js change photos.dll.config
+D:\CS\0. uncompleted effort\JAVASCRIPT\java script change images on click\test js change photos\bin\test js change photos.dll
+D:\CS\0. uncompleted effort\JAVASCRIPT\java script change images on click\test js change photos\bin\test js change photos.pdb
+D:\CS\0. uncompleted effort\JAVASCRIPT\java script change images on click\test js change photos\bin\Microsoft.Web.Infrastructure.dll
+D:\CS\0. uncompleted effort\JAVASCRIPT\java script change images on click\test js change photos\bin\Newtonsoft.Json.dll
+D:\CS\0. uncompleted effort\JAVASCRIPT\java script change images on click\test js change photos\bin\System.Net.Http.Formatting.dll
+D:\CS\0. uncompleted effort\JAVASCRIPT\java script change images on click\test js change photos\bin\System.Web.Helpers.dll
+D:\CS\0. uncompleted effort\JAVASCRIPT\java script change images on click\test js change photos\bin\System.Web.Http.dll
+D:\CS\0. uncompleted effort\JAVASCRIPT\java script change images on click\test js change photos\bin\System.Web.Http.WebHost.dll
+D:\CS\0. uncompleted effort\JAVASCRIPT\java script change images on click\test js change photos\bin\System.Web.Mvc.dll
+D:\CS\0. uncompleted effort\JAVASCRIPT\java script change images on click\test js change photos\bin\System.Web.Razor.dll
+D:\CS\0. uncompleted effort\JAVASCRIPT\java script change images on click\test js change photos\bin\System.Web.WebPages.Deployment.dll
+D:\CS\0. uncompleted effort\JAVASCRIPT\java script change images on click\test js change photos\bin\System.Web.WebPages.dll
+D:\CS\0. uncompleted effort\JAVASCRIPT\java script change images on click\test js change photos\bin\System.Web.WebPages.Razor.dll
+D:\CS\0. uncompleted effort\JAVASCRIPT\java script change images on click\test js change photos\bin\Newtonsoft.Json.xml
+D:\CS\0. uncompleted effort\JAVASCRIPT\java script change images on click\test js change photos\bin\System.Net.Http.Formatting.xml
+D:\CS\0. uncompleted effort\JAVASCRIPT\java script change images on click\test js change photos\bin\System.Web.Helpers.xml
+D:\CS\0. uncompleted effort\JAVASCRIPT\java script change images on click\test js change photos\bin\System.Web.Http.xml
+D:\CS\0. uncompleted effort\JAVASCRIPT\java script change images on click\test js change photos\bin\System.Web.Http.WebHost.xml
+D:\CS\0. uncompleted effort\JAVASCRIPT\java script change images on click\test js change photos\bin\System.Web.Mvc.xml
+D:\CS\0. uncompleted effort\JAVASCRIPT\java script change images on click\test js change photos\bin\System.Web.Razor.xml
+D:\CS\0. uncompleted effort\JAVASCRIPT\java script change images on click\test js change photos\bin\System.Web.WebPages.xml
+D:\CS\0. uncompleted effort\JAVASCRIPT\java script change images on click\test js change photos\bin\System.Web.WebPages.Deployment.xml
+D:\CS\0. uncompleted effort\JAVASCRIPT\java script change images on click\test js change photos\bin\System.Web.WebPages.Razor.xml
+D:\CS\0. uncompleted effort\JAVASCRIPT\java script change images on click\test js change photos\obj\Debug\test js change photos.csproj.AssemblyReference.cache
+D:\CS\0. uncompleted effort\JAVASCRIPT\java script change images on click\test js change photos\obj\Debug\test js change photos.csproj.CoreCompileInputs.cache
+D:\CS\0. uncompleted effort\JAVASCRIPT\java script change images on click\test js change photos\obj\Debug\test js change photos.csproj.CopyComplete
+D:\CS\0. uncompleted effort\JAVASCRIPT\java script change images on click\test js change photos\obj\Debug\test js change photos.dll
+D:\CS\0. uncompleted effort\JAVASCRIPT\java script change images on click\test js change photos\obj\Debug\test js change photos.pdb
